@@ -47,6 +47,11 @@ jobs:
           command: |
             . venv/bin/activate
             python3 scripts/build_data.py
+      - run:
+          name: Add language
+          command: |
+            . venv/bin/activate
+            python3 scripts/batch/add_language.py ro
       - persist_to_workspace:
           root: ~/repo
           paths:
