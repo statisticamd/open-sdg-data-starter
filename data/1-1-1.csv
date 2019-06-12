@@ -1,6 +1,31 @@
-Year,Sex,Mediu,Unitatea de masura,Value
-2010,,,Procent (%),9.3
-2010,bărbat,,Procent (%),9.8
-2010,femeie,,Procent (%),8.9
-2010,,urban,Procent (%),2.8
-2010,,rural,Procent (%),14.0
+Year,Sex,Mediu,Grupa de varsta,Statutul ocupational,Value
+2010,,,,,9.3
+2010,bărbat,,,,9.8
+2010,femeie,,,,8.9
+2010,,urban,,,2.8
+2010,,rural,,,14.0
+2010,,,15-24,,9.7
+2010,,,25-34,,10.6
+2010,,,35-44,,11.6
+2010,,,45-54,,8.4
+2010,,,55+,,3.6
+2010,,,,fermieri,31.2
+2010,,,,angajati în sectorul agrar,13.9
+2010,,,,angajati în sectorul non-agrar,3.0
+2010,,,,pensionari,4.6
+2010,,,,alte,7.2
+2011,,,,,7.3
+2011,bărbat,,,,7.7
+2011,femeie,,,,7.0
+2011,,urban,,,2.7
+2011,,rural,,,10.8
+2011,,,15-24,,7.8
+2011,,,25-34,,8.3
+2011,,,35-44,,8.7
+2011,,,45-54,,7.4
+2011,,,55+,,2.5
+2011,,,,fermieri,34.9
+2011,,,,angajati în sectorul agrar,7.4
+2011,,,,angajati în sectorul non-agrar,2.1
+2011,,,,pensionari,3.3
+2011,,,,alte,6.7
