@@ -1,6 +1,6 @@
-Year,Sex,Mediu,Grupa de varsta,Statutul ocupational,Unitatea de masura,Value
-2010,,,,,Procent (%),9.3
-2010,bărbat,,,,Procent (%),9.8
-2010,femeie,,,,Procent (%),8.9
-2010,,urban,,,Procent (%),2.8
-2010,,rural,,,Procent (%),14.0
+Year,Sex,Mediu,Unitatea de masura,Value
+2010,,,Procent (%),9.3
+2010,bărbat,,Procent (%),9.8
+2010,femeie,,Procent (%),8.9
+2010,,urban,Procent (%),2.8
+2010,,rural,Procent (%),14.0
