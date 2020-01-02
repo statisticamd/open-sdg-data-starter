@@ -1,7 +1,7 @@
 Year,Sex,Mediu,Grupa de vârstă,Statutul ocupațional,Value
 2010,,,,,9.3
-2010,bărbat,,,,9.8
-2010,femeie,,,,8.9
+2010,male,,,,9.8
+2010,female,,,,8.9
 2010,,urban,,,2.8
 2010,,rural,,,14.0
 2010,,,15-24,,9.7
@@ -15,8 +15,8 @@ Year,Sex,Mediu,Grupa de vârstă,Statutul ocupațional,Value
 2010,,,,pensionari,4.6
 2010,,,,alte,7.2
 2011,,,,,7.3
-2011,bărbat,,,,7.7
-2011,femeie,,,,7.0
+2011,male,,,,7.7
+2011,female,,,,7.0
 2011,,urban,,,2.7
 2011,,rural,,,10.8
 2011,,,15-24,,7.8
@@ -30,8 +30,8 @@ Year,Sex,Mediu,Grupa de vârstă,Statutul ocupațional,Value
 2011,,,,pensionari,3.3
 2011,,,,alte,6.7
 2012,,,,,5.5
-2012,bărbat,,,,5.5
-2012,femeie,,,,5.3
+2012,male,,,,5.5
+2012,female,,,,5.3
 2012,,urban,,,1.5
 2012,,rural,,,8.2
 2012,,,15-24,,6.8
@@ -45,8 +45,8 @@ Year,Sex,Mediu,Grupa de vârstă,Statutul ocupațional,Value
 2012,,,,pensionari,3.7
 2012,,,,alte,5.9
 2013,,,,,5.2
-2013,bărbat,,,,5.8
-2013,femeie,,,,4.7
+2013,male,,,,5.8
+2013,female,,,,4.7
 2013,,urban,,,1.5
 2013,,rural,,,8.0
 2013,,,15-24,,7.9
@@ -60,8 +60,8 @@ Year,Sex,Mediu,Grupa de vârstă,Statutul ocupațional,Value
 2013,,,,pensionari,2.3
 2013,,,,alte,8.2
 2014,,,,,4.6
-2014,bărbat,,,,4.5
-2014,femeie,,,,4.6
+2014,male,,,,4.5
+2014,female,,,,4.6
 2014,,urban,,,2.3
 2014,,rural,,,6.3
 2014,,,15-24,,5.5
@@ -75,8 +75,8 @@ Year,Sex,Mediu,Grupa de vârstă,Statutul ocupațional,Value
 2014,,,,pensionari,2.6
 2014,,,,alte,8.6
 2015,,,,,4.4
-2015,bărbat,,,,4.8
-2015,femeie,,,,4.1
+2015,male,,,,4.8
+2015,female,,,,4.1
 2015,,urban,,,1.9
 2015,,rural,,,6.4
 2015,,,15-24,,4.9
