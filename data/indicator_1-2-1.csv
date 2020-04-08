@@ -1,97 +1,97 @@
-Year,Medii de reședință,Sex,"Grupe de vârstă, ani",Value
-2010,,,,,26.8
-2010,bărbat,,,,27.8
-2010,femeie,,,,25.9
-2010,,urban,,,11.7
-2010,,rural,,,37.8
-2010,,,15-24,,26.9
-2010,,,25-34,,26.9
-2010,,,35-44,,30.5
-2010,,,45-54,,22
-2010,,,55+,,21.4
-2010,,,,fermieri,47.1
-2010,,,,angajati în sectorul agrar,53.9
-2010,,,,angajati în sectorul non-agrar,14.3
-2010,,,,angajati cont propriu,5.9
-2010,,,,pensionari,28
-2010,,,,alte,20.6
-2011,,,,,23.4
-2011,bărbat,,,,24.7
-2011,femeie,,,,22.3
-2011,,urban,,,9.6
-2011,,rural,,,33.5
-2011,,,15-24,,22.8
-2011,,,25-34,,23.9
-2011,,,35-44,,26.7
-2011,,,45-54,,18.7
-2011,,,55+,,17.8
-2011,,,,fermieri,46.7
-2011,,,,angajati în sectorul agrar,41.8
-2011,,,,angajati în sectorul non-agrar,11.4
-2011,,,,angajati cont propriu,20.9
-2011,,,,pensionari,24.7
-2011,,,,alte,24
-2012,,,,,20.4
-2012,bărbat,,,,21.4
-2012,femeie,,,,19.5
-2012,,urban,,,9.2
-2012,,rural,,,28.6
-2012,,,15-24,,19.4
-2012,,,25-34,,21.1
-2012,,,35-44,,23.5
-2012,,,45-54,,15.3
-2012,,,55+,,15.4
-2012,,,,fermieri,37.8
-2012,,,,angajati în sectorul agrar,41.7
-2012,,,,angajati în sectorul non-agrar,10.9
-2012,,,,angajati cont propriu,0
-2012,,,,pensionari,22.6
-2012,,,,alte,18.5
-2013,,,,,15.8
-2013,bărbat,,,,16.9
-2013,femeie,,,,14.9
-2013,,urban,,,5.2
-2013,,rural,,,23.8
-2013,,,15-24,,15.8
-2013,,,25-34,,17.4
-2013,,,35-44,,18.9
-2013,,,45-54,,11.7
-2013,,,55+,,10.6
-2013,,,,fermieri,29.2
-2013,,,,angajati în sectorul agrar,40.3
-2013,,,,angajati în sectorul non-agrar,9.5
-2013,,,,angajati cont propriu,10.6
-2013,,,,pensionari,13.8
-2013,,,,alte,15.9
-2014,,,,,14.9
-2014,bărbat,,,,15.9
-2014,femeie,,,,14.1
-2014,,urban,,,5.7
-2014,,rural,,,21.9
-2014,,,15-24,,15.1
-2014,,,25-34,,15.3
-2014,,,35-44,,18.1
-2014,,,45-54,,11.7
-2014,,,55+,,9.6
-2014,,,,fermieri,28.4
-2014,,,,angajati în sectorul agrar,34.1
-2014,,,,angajati în sectorul non-agrar,11.2
-2014,,,,angajati cont propriu,11.1
-2014,,,,pensionari,13.2
-2014,,,,alte,12.5
-2015,,,,,15.6
-2015,bărbat,,,,16.9
-2015,femeie,,,,14.5
-2015,,urban,,,5.3
-2015,,rural,,,23.4
-2015,,,15-24,,16.7
-2015,,,25-34,,16.4
-2015,,,35-44,,17.1
-2015,,,45-54,,12.6
-2015,,,55+,,10.5
-2015,,,,fermieri,33.6
-2015,,,,angajati în sectorul agrar,40.2
-2015,,,,angajati în sectorul non-agrar,9.2
-2015,,,,angajati cont propriu,0
-2015,,,,pensionari,13.7
-2015,,,,alte,15.1
+Year,Medii de reședință,Sex,"Grupe de vârstă, ani",Sector,Value
+2010,,,,,,26.8
+2010,bărbat,,,,,27.8
+2010,femeie,,,,,25.9
+2010,,urban,,,,11.7
+2010,,rural,,,,37.8
+2010,,,15-24,,,26.9
+2010,,,25-34,,,26.9
+2010,,,35-44,,,30.5
+2010,,,45-54,,,22
+2010,,,55+,,,21.4
+2010,,,,fermieri,,47.1
+2010,,,,angajati în sectorul agrar,,53.9
+2010,,,,angajati în sectorul non-agrar,,14.3
+2010,,,,angajati cont propriu,,5.9
+2010,,,,pensionari,,28
+2010,,,,alte,,20.6
+2011,,,,,,23.4
+2011,bărbat,,,,,24.7
+2011,femeie,,,,,22.3
+2011,,urban,,,,9.6
+2011,,rural,,,,33.5
+2011,,,15-24,,,22.8
+2011,,,25-34,,,23.9
+2011,,,35-44,,,26.7
+2011,,,45-54,,,18.7
+2011,,,55+,,,17.8
+2011,,,,fermieri,,46.7
+2011,,,,angajati în sectorul agrar,,41.8
+2011,,,,angajati în sectorul non-agrar,,11.4
+2011,,,,angajati cont propriu,,20.9
+2011,,,,pensionari,,24.7
+2011,,,,alte,,24
+2012,,,,,,20.4
+2012,bărbat,,,,,21.4
+2012,femeie,,,,,19.5
+2012,,urban,,,,9.2
+2012,,rural,,,,28.6
+2012,,,15-24,,,19.4
+2012,,,25-34,,,21.1
+2012,,,35-44,,,23.5
+2012,,,45-54,,,15.3
+2012,,,55+,,,15.4
+2012,,,,fermieri,,37.8
+2012,,,,angajati în sectorul agrar,,41.7
+2012,,,,angajati în sectorul non-agrar,,10.9
+2012,,,,angajati cont propriu,,0
+2012,,,,pensionari,,22.6
+2012,,,,alte,,18.5
+2013,,,,,,15.8
+2013,bărbat,,,,,16.9
+2013,femeie,,,,,14.9
+2013,,urban,,,,5.2
+2013,,rural,,,,23.8
+2013,,,15-24,,,15.8
+2013,,,25-34,,,17.4
+2013,,,35-44,,,18.9
+2013,,,45-54,,,11.7
+2013,,,55+,,,10.6
+2013,,,,fermieri,,29.2
+2013,,,,angajati în sectorul agrar,,40.3
+2013,,,,angajati în sectorul non-agrar,,9.5
+2013,,,,angajati cont propriu,,10.6
+2013,,,,pensionari,,13.8
+2013,,,,alte,,15.9
+2014,,,,,,14.9
+2014,bărbat,,,,,15.9
+2014,femeie,,,,,14.1
+2014,,urban,,,,5.7
+2014,,rural,,,,21.9
+2014,,,15-24,,,15.1
+2014,,,25-34,,,15.3
+2014,,,35-44,,,18.1
+2014,,,45-54,,,11.7
+2014,,,55+,,,9.6
+2014,,,,fermieri,,28.4
+2014,,,,angajati în sectorul agrar,,34.1
+2014,,,,angajati în sectorul non-agrar,,11.2
+2014,,,,angajati cont propriu,,11.1
+2014,,,,pensionari,,13.2
+2014,,,,alte,,12.5
+2015,,,,,,15.6
+2015,bărbat,,,,20,16.9
+2015,femeie,,,,30,14.5
+2015,,urban,,,25,5.3
+2015,,rural,,,52,23.4
+2015,,,15-24,,45,16.7
+2015,,,25-34,,52,16.4
+2015,,,35-44,,57,17.1
+2015,,,45-54,,57,12.6
+2015,,,55+,,87,10.5
+2015,,,,fermieri,52,33.6
+2015,,,,angajati în sectorul agrar,75,40.2
+2015,,,,angajati în sectorul non-agrar,86,9.2
+2015,,,,angajati cont propriu,57,0
+2015,,,,pensionari,78,13.7
+2015,,,,alte,36,15.1
