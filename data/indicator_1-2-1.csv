@@ -1,4 +1,4 @@
-Year,Medii de reședință,Sex,"Grupe de vârstă, ani",Sector,Value
+Year,Sexe,Medii,Grupe de vârstă,Sector,Value
 2010,,,,,,26.8
 2010,bărbat,,,,,27.8
 2010,femeie,,,,,25.9
@@ -79,7 +79,7 @@ Year,Medii de reședință,Sex,"Grupe de vârstă, ani",Sector,Value
 2014,,,,angajati cont propriu,,11.1
 2014,,,,pensionari,,13.2
 2014,,,,alte,,12.5
-2015,,,,,,15.6
+2015,,,,,21,15.6
 2015,bărbat,,,,20,16.9
 2015,femeie,,,,30,14.5
 2015,,urban,,,25,5.3
