@@ -1,97 +1,97 @@
 Year,Sexe,Medii,Grupe de vârstă,Sector,Value
-,,,,,26.8
-bărbat,,,,,27.8
-femeie,,,,,25.9
-,urban,,,,11.7
-,rural,,,,37.8
-,,15-24,,,26.9
-,,25-34,,,26.9
-,,35-44,,,30.5
-,,45-54,,,22.0
-,,55+,,,21.4
-,,,fermieri,,47.1
-,,,angajati în sectorul agrar,,53.9
-,,,angajati în sectorul non-agrar,,14.3
-,,,angajati cont propriu,,5.9
-,,,pensionari,,28.0
-,,,alte,,20.6
-,,,,,23.4
-bărbat,,,,,24.7
-femeie,,,,,22.3
-,urban,,,,9.6
-,rural,,,,33.5
-,,15-24,,,22.8
-,,25-34,,,23.9
-,,35-44,,,26.7
-,,45-54,,,18.7
-,,55+,,,17.8
-,,,fermieri,,46.7
-,,,angajati în sectorul agrar,,41.8
-,,,angajati în sectorul non-agrar,,11.4
-,,,angajati cont propriu,,20.9
-,,,pensionari,,24.7
-,,,alte,,24.0
-,,,,,20.4
-bărbat,,,,,21.4
-femeie,,,,,19.5
-,urban,,,,9.2
-,rural,,,,28.6
-,,15-24,,,19.4
-,,25-34,,,21.1
-,,35-44,,,23.5
-,,45-54,,,15.3
-,,55+,,,15.4
-,,,fermieri,,37.8
-,,,angajati în sectorul agrar,,41.7
-,,,angajati în sectorul non-agrar,,10.9
-,,,angajati cont propriu,,0.0
-,,,pensionari,,22.6
-,,,alte,,18.5
-,,,,,15.8
-bărbat,,,,,16.9
-femeie,,,,,14.9
-,urban,,,,5.2
-,rural,,,,23.8
-,,15-24,,,15.8
-,,25-34,,,17.4
-,,35-44,,,18.9
-,,45-54,,,11.7
-,,55+,,,10.6
-,,,fermieri,,29.2
-,,,angajati în sectorul agrar,,40.3
-,,,angajati în sectorul non-agrar,,9.5
-,,,angajati cont propriu,,10.6
-,,,pensionari,,13.8
-,,,alte,,15.9
-,,,,,14.9
-bărbat,,,,,15.9
-femeie,,,,,14.1
-,urban,,,,5.7
-,rural,,,,21.9
-,,15-24,,,15.1
-,,25-34,,,15.3
-,,35-44,,,18.1
-,,45-54,,,11.7
-,,55+,,,9.6
-,,,fermieri,,28.4
-,,,angajati în sectorul agrar,,34.1
-,,,angajati în sectorul non-agrar,,11.2
-,,,angajati cont propriu,,11.1
-,,,pensionari,,13.2
-,,,alte,,12.5
-,,,,21.0,15.6
-bărbat,,,,20.0,16.9
-femeie,,,,30.0,14.5
-,urban,,,25.0,5.3
-,rural,,,52.0,23.4
-,,15-24,,45.0,16.7
-,,25-34,,52.0,16.4
-,,35-44,,57.0,17.1
-,,45-54,,57.0,12.6
-,,55+,,87.0,10.5
-,,,fermieri,52.0,33.6
-,,,angajati în sectorul agrar,75.0,40.2
-,,,angajati în sectorul non-agrar,86.0,9.2
-,,,angajati cont propriu,57.0,0.0
-,,,pensionari,78.0,13.7
-,,,alte,36.0,15.1
+,,,,21,26.8
+bărbat,,,,20,27.8
+femeie,,,,30,25.9
+,urban,,,25,11.7
+,rural,,,52,37.8
+,,15-24,,45,26.9
+,,25-34,,52,26.9
+,,35-44,,57,30.5
+,,45-54,,57,22.0
+,,55+,,87,21.4
+,,,fermieri,52,47.1
+,,,angajati în sectorul agrar,75,53.9
+,,,angajati în sectorul non-agrar,86,14.3
+,,,angajati cont propriu,57,5.9
+,,,pensionari,78,28.0
+,,,alte,36,20.6
+,,,,21,23.4
+bărbat,,,,20,24.7
+femeie,,,,30,22.3
+,urban,,,25,9.6
+,rural,,,52,33.5
+,,15-24,,45,22.8
+,,25-34,,52,23.9
+,,35-44,,57,26.7
+,,45-54,,57,18.7
+,,55+,,87,17.8
+,,,fermieri,52,46.7
+,,,angajati în sectorul agrar,75,41.8
+,,,angajati în sectorul non-agrar,86,11.4
+,,,angajati cont propriu,57,20.9
+,,,pensionari,78,24.7
+,,,alte,36,24.0
+,,,,21,20.4
+bărbat,,,,20,21.4
+femeie,,,,30,19.5
+,urban,,,25,9.2
+,rural,,,52,28.6
+,,15-24,,45,19.4
+,,25-34,,52,21.1
+,,35-44,,57,23.5
+,,45-54,,57,15.3
+,,55+,,87,15.4
+,,,fermieri,52,37.8
+,,,angajati în sectorul agrar,75,41.7
+,,,angajati în sectorul non-agrar,86,10.9
+,,,angajati cont propriu,57,0.0
+,,,pensionari,78,22.6
+,,,alte,36,18.5
+,,,,21,15.8
+bărbat,,,,20,16.9
+femeie,,,,30,14.9
+,urban,,,25,5.2
+,rural,,,52,23.8
+,,15-24,,45,15.8
+,,25-34,,52,17.4
+,,35-44,,57,18.9
+,,45-54,,57,11.7
+,,55+,,87,10.6
+,,,fermieri,52,29.2
+,,,angajati în sectorul agrar,75,40.3
+,,,angajati în sectorul non-agrar,86,9.5
+,,,angajati cont propriu,57,10.6
+,,,pensionari,78,13.8
+,,,alte,36,15.9
+,,,,21,14.9
+bărbat,,,,20,15.9
+femeie,,,,30,14.1
+,urban,,,25,5.7
+,rural,,,52,21.9
+,,15-24,,45,15.1
+,,25-34,,52,15.3
+,,35-44,,57,18.1
+,,45-54,,57,11.7
+,,55+,,87,9.6
+,,,fermieri,52,28.4
+,,,angajati în sectorul agrar,75,34.1
+,,,angajati în sectorul non-agrar,86,11.2
+,,,angajati cont propriu,57,11.1
+,,,pensionari,78,13.2
+,,,alte,36,12.5
+,,,,21,15.6
+bărbat,,,,20,16.9
+femeie,,,,30,14.5
+,urban,,,25,5.3
+,rural,,,52,23.4
+,,15-24,,45,16.7
+,,25-34,,52,16.4
+,,35-44,,57,17.1
+,,45-54,,57,12.6
+,,55+,,87,10.5
+,,,fermieri,52,33.6
+,,,angajati în sectorul agrar,75,40.2
+,,,angajati în sectorul non-agrar,86,9.2
+,,,angajati cont propriu,57,0.0
+,,,pensionari,78,13.7
+,,,alte,36,15.1
