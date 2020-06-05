@@ -1,7 +1,145 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+﻿Year,Total,Sex,Statistical regions,Occupations,Value
+2010,Total,,,,
+2010,,Man,,,
+2010,,Woman,,,
+2010,,,Mun. Chișinău,,
+2010,,,North,,
+2010,,,Center,,
+2010,,,South,,
+2010,,,,"Legislators, executive members and other officials",
+2010,,,,Specialists in various fields of activity,
+2010,,,,Technicians and other middle-level  qualification specialists,
+2010,,,,Administrative officers,
+2010,,,,Workers in the field of services and trade,
+2010,,,,"Qualified workers in agriculture, forestry, aquaculture, pisciculture and fishing",
+2010,,,,Qualified and assimilated workers,
+2010,,,,Other occupations,
+2010,,,,"Other occupations - of which, non-skilled workers",
+2011,Total,,,,
+2011,,Man,,,
+2011,,Woman,,,
+2011,,,Mun. Chișinău,,
+2011,,,North,,
+2011,,,Center,,
+2011,,,South,,
+2011,,,,"Legislators, executive members and other officials",
+2011,,,,Specialists in various fields of activity,
+2011,,,,Technicians and other middle-level  qualification specialists,
+2011,,,,Administrative officers,
+2011,,,,Workers in the field of services and trade,
+2011,,,,"Qualified workers in agriculture, forestry, aquaculture, pisciculture and fishing",
+2011,,,,Qualified and assimilated workers,
+2011,,,,Other occupations,
+2011,,,,"Other occupations - of which, non-skilled workers",
+2012,Total,,,,
+2012,,Man,,,
+2012,,Woman,,,
+2012,,,Mun. Chișinău,,
+2012,,,North,,
+2012,,,Center,,
+2012,,,South,,
+2012,,,,"Legislators, executive members and other officials",
+2012,,,,Specialists in various fields of activity,
+2012,,,,Technicians and other middle-level  qualification specialists,
+2012,,,,Administrative officers,
+2012,,,,Workers in the field of services and trade,
+2012,,,,"Qualified workers in agriculture, forestry, aquaculture, pisciculture and fishing",
+2012,,,,Qualified and assimilated workers,
+2012,,,,Other occupations,
+2012,,,,"Other occupations - of which, non-skilled workers",
+2013,Total,,,,
+2013,,Man,,,
+2013,,Woman,,,
+2013,,,Mun. Chișinău,,
+2013,,,North,,
+2013,,,Center,,
+2013,,,South,,
+2013,,,,"Legislators, executive members and other officials",
+2013,,,,Specialists in various fields of activity,
+2013,,,,Technicians and other middle-level  qualification specialists,
+2013,,,,Administrative officers,
+2013,,,,Workers in the field of services and trade,
+2013,,,,"Qualified workers in agriculture, forestry, aquaculture, pisciculture and fishing",
+2013,,,,Qualified and assimilated workers,
+2013,,,,Other occupations,
+2013,,,,"Other occupations - of which, non-skilled workers",
+2014,Total,,,,9.7
+2014,,Man,,,9.3
+2014,,Woman,,,10.1
+2014,,,Mun. Chișinău,,14.2
+2014,,,North,,7.6
+2014,,,Center,,7.4
+2014,,,South,,9.4
+2014,,,,"Legislators, executive members and other officials",10.2
+2014,,,,Specialists in various fields of activity,6.5
+2014,,,,Technicians and other middle-level  qualification specialists,7.2
+2014,,,,Administrative officers,2.8
+2014,,,,Workers in the field of services and trade,1
+2014,,,,"Qualified workers in agriculture, forestry, aquaculture, pisciculture and fishing",
+2014,,,,Qualified and assimilated workers,40.3
+2014,,,,Other occupations,10.4
+2014,,,,"Other occupations - of which, non-skilled workers",7.4
+2015,Total,,,,9.6
+2015,,Man,,,9.6
+2015,,Woman,,,9.6
+2015,,,Mun. Chișinău,,14.5
+2015,,,North,,7.1
+2015,,,Center,,6.9
+2015,,,South,,10
+2015,,,,"Legislators, executive members and other officials",11.7
+2015,,,,Specialists in various fields of activity,5.3
+2015,,,,Technicians and other middle-level  qualification specialists,7.6
+2015,,,,Administrative officers,6.4
+2015,,,,Workers in the field of services and trade,0.6
+2015,,,,"Qualified workers in agriculture, forestry, aquaculture, pisciculture and fishing",
+2015,,,,Qualified and assimilated workers,41.2
+2015,,,,Other occupations,13.6
+2015,,,,"Other occupations - of which, non-skilled workers",10.5
+2016,Total,,,,9.5
+2016,,Man,,,9.5
+2016,,Woman,,,9.5
+2016,,,Mun. Chișinău,,14.4
+2016,,,North,,7
+2016,,,Center,,7.3
+2016,,,South,,9.8
+2016,,,,"Legislators, executive members and other officials",12.8
+2016,,,,Specialists in various fields of activity,4.6
+2016,,,,Technicians and other middle-level  qualification specialists,7.3
+2016,,,,Administrative officers,6.6
+2016,,,,Workers in the field of services and trade,0.3
+2016,,,,"Qualified workers in agriculture, forestry, aquaculture, pisciculture and fishing",
+2016,,,,Qualified and assimilated workers,42.7
+2016,,,,Other occupations,14.3
+2016,,,,"Other occupations - of which, non-skilled workers",10.3
+2017,Total,,,,8.9
+2017,,Man,,,8.1
+2017,,Woman,,,9.8
+2017,,,Mun. Chișinău,,11.7
+2017,,,North,,9
+2017,,,Center,,7.4
+2017,,,South,,7.1
+2017,,,,"Legislators, executive members and other officials",13.4
+2017,,,,Specialists in various fields of activity,4
+2017,,,,Technicians and other middle-level  qualification specialists,5.1
+2017,,,,Administrative officers,6.8
+2017,,,,Workers in the field of services and trade,0.2
+2017,,,,"Qualified workers in agriculture, forestry, aquaculture, pisciculture and fishing",
+2017,,,,Qualified and assimilated workers,42.6
+2017,,,,Other occupations,13.1
+2017,,,,"Other occupations - of which, non-skilled workers",9.4
+2018,Total,,,,9
+2018,,Man,,,9
+2018,,Woman,,,9
+2018,,,Mun. Chișinău,,12
+2018,,,North,,8.8
+2018,,,Center,,7.5
+2018,,,South,,7.5
+2018,,,,"Legislators, executive members and other officials",13.8
+2018,,,,Specialists in various fields of activity,3.4
+2018,,,,Technicians and other middle-level  qualification specialists,6.1
+2018,,,,Administrative officers,7.6
+2018,,,,Workers in the field of services and trade,0.3
+2018,,,,"Qualified workers in agriculture, forestry, aquaculture, pisciculture and fishing",
+2018,,,,Qualified and assimilated workers,43.3
+2018,,,,Other occupations,15.8
+2018,,,,"Other occupations - of which, non-skilled workers",10.1

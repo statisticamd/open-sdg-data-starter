@@ -1,7 +1,46 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+﻿Year,Conventions,Value
+2010,Basel convention,
+2010,Rotterdam convention,
+2010,Stockholm convention,
+2010,Montreal protocol,
+2010,Minamata convention,
+2011,Basel convention,
+2011,Rotterdam convention,
+2011,Stockholm convention,
+2011,Montreal protocol,
+2011,Minamata convention,
+2012,Basel convention,
+2012,Rotterdam convention,
+2012,Stockholm convention,
+2012,Montreal protocol,
+2012,Minamata convention,
+2013,Basel convention,
+2013,Rotterdam convention,
+2013,Stockholm convention,
+2013,Montreal protocol,
+2013,Minamata convention,
+2014,Basel convention,
+2014,Rotterdam convention,
+2014,Stockholm convention,
+2014,Montreal protocol,
+2014,Minamata convention,
+2015,Basel convention,33.33
+2015,Rotterdam convention,78.43
+2015,Stockholm convention,50
+2015,Montreal protocol,100
+2015,Minamata convention,
+2016,Basel convention,
+2016,Rotterdam convention,
+2016,Stockholm convention,
+2016,Montreal protocol,
+2016,Minamata convention,
+2017,Basel convention,
+2017,Rotterdam convention,
+2017,Stockholm convention,
+2017,Montreal protocol,
+2017,Minamata convention,
+2018,Basel convention,
+2018,Rotterdam convention,
+2018,Stockholm convention,
+2018,Montreal protocol,
+2018,Minamata convention,

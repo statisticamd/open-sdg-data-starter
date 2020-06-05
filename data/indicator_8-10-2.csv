@@ -1,7 +1,91 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+﻿Year,Total,Sex,Age group,Studiies,Incomes,Area,Value
+2010,Total,,,,,,
+2010,,Man,,,,,
+2010,,Woman,,,,,
+2010,,,15-24,,,,
+2010,,,25+,,,,
+2010,,,,Primary and below,,,
+2010,,,,Secondary and above,,,
+2010,,,,,"Poors, 40%",,
+2010,,,,,"Wealthy, 60%",,
+2010,,,,,,Rural,
+2011,Total,,,,,,18
+2011,,Man,,,,,19
+2011,,Woman,,,,,17
+2011,,,15-24,,,,17
+2011,,,25+,,,,18
+2011,,,,Primary and below,,,4
+2011,,,,Secondary and above,,,22
+2011,,,,,"Poors, 40%",,10
+2011,,,,,"Wealthy, 60%",,24
+2011,,,,,,Rural,15
+2012,Total,,,,,,
+2012,,Man,,,,,
+2012,,Woman,,,,,
+2012,,,15-24,,,,
+2012,,,25+,,,,
+2012,,,,Primary and below,,,
+2012,,,,Secondary and above,,,
+2012,,,,,"Poors, 40%",,
+2012,,,,,"Wealthy, 60%",,
+2012,,,,,,Rural,
+2013,Total,,,,,,
+2013,,Man,,,,,
+2013,,Woman,,,,,
+2013,,,15-24,,,,
+2013,,,25+,,,,
+2013,,,,Primary and below,,,
+2013,,,,Secondary and above,,,
+2013,,,,,"Poors, 40%",,
+2013,,,,,"Wealthy, 60%",,
+2013,,,,,,Rural,
+2014,Total,,,,,,18
+2014,,Man,,,,,16
+2014,,Woman,,,,,19
+2014,,,15-24,,,,12
+2014,,,25+,,,,19
+2014,,,,Primary and below,,,2
+2014,,,,Secondary and above,,,22
+2014,,,,,"Poors, 40%",,11
+2014,,,,,"Wealthy, 60%",,22
+2014,,,,,,Rural,15
+2015,Total,,,,,,
+2015,,Man,,,,,
+2015,,Woman,,,,,
+2015,,,15-24,,,,
+2015,,,25+,,,,
+2015,,,,Primary and below,,,
+2015,,,,Secondary and above,,,
+2015,,,,,"Poors, 40%",,
+2015,,,,,"Wealthy, 60%",,
+2015,,,,,,Rural,
+2016,Total,,,,,,
+2016,,Man,,,,,
+2016,,Woman,,,,,
+2016,,,15-24,,,,
+2016,,,25+,,,,
+2016,,,,Primary and below,,,
+2016,,,,Secondary and above,,,
+2016,,,,,"Poors, 40%",,
+2016,,,,,"Wealthy, 60%",,
+2016,,,,,,Rural,
+2017,Total,,,,,,44
+2017,,Man,,,,,43
+2017,,Woman,,,,,45
+2017,,,15-24,,,,39
+2017,,,25+,,,,45
+2017,,,,Primary and below,,,22
+2017,,,,Secondary and above,,,48
+2017,,,,,"Poors, 40%",,32
+2017,,,,,"Wealthy, 60%",,52
+2017,,,,,,Rural,42
+2018,Total,,,,,,
+2018,,Man,,,,,
+2018,,Woman,,,,,
+2018,,,15-24,,,,
+2018,,,25+,,,,
+2018,,,,Primary and below,,,
+2018,,,,Secondary and above,,,
+2018,,,,,"Poors, 40%",,
+2018,,,,,"Wealthy, 60%",,
+2018,,,,,,Rural,
