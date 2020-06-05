@@ -1,7 +1,37 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Total,Area of residence,Rayons,Value
+2010,Total,,,44.5
+2010,,Urban,,52.8
+2010,,Rural,,39.5
+2010,,,(Counties list),
+2011,Total,,,15.3
+2011,,Urban,,6.8
+2011,,Rural,,20.3
+2011,,,(Counties list),
+2012,Total,,,30.4
+2012,,Urban,,13.4
+2012,,Rural,,40.7
+2012,,,(Counties list),
+2013,Total,,,15.8
+2013,,Urban,,7.1
+2013,,Rural,,20.9
+2013,,,(Counties list),
+2014,Total,,,15.5
+2014,,Urban,,7.1
+2014,,Rural,,20.4
+2014,,,(Counties list),
+2015,Total,,,31.1
+2015,,Urban,,14.8
+2015,,Rural,,39.9
+2015,,,(Counties list),
+2016,Total,,,18.7
+2016,,Urban,,44.9
+2016,,Rural,,4.2
+2016,,,(Counties list),
+2017,Total,,,17.6
+2017,,Urban,,8.1
+2017,,Rural,,23.1
+2017,,,(Counties list),
+2018,Total,,,15.3
+2018,,Urban,,0.0
+2018,,Rural,,24.3
+2018,,,(Counties list),
