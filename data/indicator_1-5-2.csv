@@ -1,46 +1,46 @@
-﻿Year,Total,Types of losses,Value
-2010,Total,,0.44
-2010,,Technogenic,0
-2010,,Natural,0.39
-2010,,Social and biological,0
-2010,,Fires,0.05
-2011,Total,,0.26
-2011,,Technogenic,0
-2011,,Natural,0.12
-2011,,Social and biological,0
-2011,,Fires,0.14
-2012,Total,,1.55
-2012,,Technogenic,0
-2012,,Natural,1.52
-2012,,Social and biological,0
-2012,,Fires,0.03
-2013,Total,,0.62
-2013,,Technogenic,0
-2013,,Natural,0.59
-2013,,Social and biological,0
-2013,,Fires,0.03
-2014,Total,,0.19
-2014,,Technogenic,0
-2014,,Natural,0.14
-2014,,Social and biological,0
-2014,,Fires,0.05
-2015,Total,,0.32
-2015,,Technogenic,0
-2015,,Natural,0.27
-2015,,Social and biological,0
-2015,,Fires,0.04
-2016,Total,,0.35
-2016,,Technogenic,0.08
-2016,,Natural,0.24
-2016,,Social and biological,0
-2016,,Fires,0.03
-2017,Total,,0.26
-2017,,Technogenic,0
-2017,,Natural,0.23
-2017,,Social and biological,0
-2017,,Fires,0.03
-2018,Total,,0.19
-2018,,Technogenic,0
-2018,,Natural,0.15
-2018,,Social and biological,0
-2018,,Fires,0.03
+﻿Year,Types of losses,Value
+2010,,0.44
+2010,Technogenic,0
+2010,Natural,0.39
+2010,Social and biological,0
+2010,Fires,0.05
+2011,,0.26
+2011,Technogenic,0
+2011,Natural,0.12
+2011,Social and biological,0
+2011,Fires,0.14
+2012,,1.55
+2012,Technogenic,0
+2012,Natural,1.52
+2012,Social and biological,0
+2012,Fires,0.03
+2013,,0.62
+2013,Technogenic,0
+2013,Natural,0.59
+2013,Social and biological,0
+2013,Fires,0.03
+2014,,0.19
+2014,Technogenic,0
+2014,Natural,0.14
+2014,Social and biological,0
+2014,Fires,0.05
+2015,,0.32
+2015,Technogenic,0
+2015,Natural,0.27
+2015,Social and biological,0
+2015,Fires,0.04
+2016,,0.35
+2016,Technogenic,0.08
+2016,Natural,0.24
+2016,Social and biological,0
+2016,Fires,0.03
+2017,,0.26
+2017,Technogenic,0
+2017,Natural,0.23
+2017,Social and biological,0
+2017,Fires,0.03
+2018,,0.19
+2018,Technogenic,0
+2018,Natural,0.15
+2018,Social and biological,0
+2018,Fires,0.03
