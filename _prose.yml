@@ -206,6 +206,16 @@ prose:
             element: text
             label: "Organisation"
             scope: source_1
+      - name: data_supplier_1
+        field:
+            element: text
+            label: "Data Supplier"
+            scope: source_1
+      - name: reponsabile_monitoring_1
+        field:
+            element: text
+            label: "Responsible for monitoring"
+            scope: source_1
       - name: "source_periodicity_1"
         field:
             element: text
