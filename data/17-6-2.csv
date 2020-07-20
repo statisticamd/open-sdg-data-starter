@@ -1,4 +1,4 @@
-Year,Area of residence,Regiuni geografice,Speeds,Value
+Year,Area of residence,Regions,Speeds,Value
 2010,,,,
 2010,Urban,,,
 2010,Rural,,,
@@ -6,7 +6,7 @@ Year,Area of residence,Regiuni geografice,Speeds,Value
 2010,,North,,
 2010,,Center,,
 2010,,South,,
-2010,,Atu gagauzia,,
+2010,,ATU Gagauzia,,
 2010,,,Under 2 Mbps,
 2010,,,2-10 mbps,
 2010,,,10-30 mbps,
@@ -19,7 +19,7 @@ Year,Area of residence,Regiuni geografice,Speeds,Value
 2011,,North,,74625.0
 2011,,Center,,67462.0
 2011,,South,,36719.0
-2011,,Atu gagauzia,,12555.0
+2011,,ATU Gagauzia,,12555.0
 2011,,,Under 2 Mbps,
 2011,,,2-10 mbps,
 2011,,,10-30 mbps,
@@ -32,7 +32,7 @@ Year,Area of residence,Regiuni geografice,Speeds,Value
 2012,,North,,90551.0
 2012,,Center,,83459.0
 2012,,South,,44532.0
-2012,,Atu gagauzia,,17409.0
+2012,,ATU Gagauzia,,17409.0
 2012,,,Under 2 Mbps,55539.0
 2012,,,2-10 mbps,182853.0
 2012,,,10-30 mbps,60937.0
@@ -45,7 +45,7 @@ Year,Area of residence,Regiuni geografice,Speeds,Value
 2013,,North,,102846.0
 2013,,Center,,97104.0
 2013,,South,,51812.0
-2013,,Atu gagauzia,,19561.0
+2013,,ATU Gagauzia,,19561.0
 2013,,,Under 2 Mbps,56783.0
 2013,,,2-10 mbps,182832.0
 2013,,,10-30 mbps,85943.0
@@ -58,7 +58,7 @@ Year,Area of residence,Regiuni geografice,Speeds,Value
 2014,,North,,114073.0
 2014,,Center,,107079.0
 2014,,South,,56375.0
-2014,,Atu gagauzia,,21073.0
+2014,,ATU Gagauzia,,21073.0
 2014,,,Under 2 Mbps,40839.0
 2014,,,2-10 mbps,163322.0
 2014,,,10-30 mbps,94733.0
@@ -71,7 +71,7 @@ Year,Area of residence,Regiuni geografice,Speeds,Value
 2015,,North,,120618.0
 2015,,Center,,111491.0
 2015,,South,,58419.0
-2015,,Atu gagauzia,,22052.0
+2015,,ATU Gagauzia,,22052.0
 2015,,,Under 2 Mbps,23393.0
 2015,,,2-10 mbps,52550.0
 2015,,,10-30 mbps,176204.0
@@ -84,7 +84,7 @@ Year,Area of residence,Regiuni geografice,Speeds,Value
 2016,,North,,126608.0
 2016,,Center,,114464.0
 2016,,South,,69057.0
-2016,,Atu gagauzia,,22103.0
+2016,,ATU Gagauzia,,22103.0
 2016,,,Under 2 Mbps,23267.0
 2016,,,2-10 mbps,31903.0
 2016,,,10-30 mbps,191971.0
@@ -97,7 +97,7 @@ Year,Area of residence,Regiuni geografice,Speeds,Value
 2017,,North,,133583.0
 2017,,Center,,122912.0
 2017,,South,,72973.0
-2017,,Atu gagauzia,,22660.0
+2017,,ATU Gagauzia,,22660.0
 2017,,,Under 2 Mbps,21343.0
 2017,,,2-10 mbps,26251.0
 2017,,,10-30 mbps,190021.0
@@ -110,7 +110,7 @@ Year,Area of residence,Regiuni geografice,Speeds,Value
 2018,,North,,141674.0
 2018,,Center,,142291.0
 2018,,South,,69756.0
-2018,,Atu gagauzia,,23593.0
+2018,,ATU Gagauzia,,23593.0
 2018,,,Under 2 Mbps,18861.0
 2018,,,2-10 mbps,8364.0
 2018,,,10-30 mbps,194431.0
