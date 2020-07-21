@@ -1,3 +1,4 @@
+Year,Type of vaccine,Value
 2010,Tuberculosis vaccine (BCG),98.1
 2010,Diphtheria-tetanus-pertussis (DTP) vaccine,94.1
 2010,Combination measles-mumps-rubella vaccine (MMR),93.2
@@ -88,6 +89,7 @@
 2018,Pneumococcal vaccine (PC),89
 2018,Diphtheria and tetanus toxin (DT) vaccine at 7 years,95.9
 2018,Diphtheria and tetanus toxin (Td) vaccine at 15 years,97.1
+Year,Type of vaccine,Value
 2010,Tuberculosis vaccine (BCG),98.1
 2010,Diphtheria-tetanus-pertussis (DTP) vaccine,94.1
 2010,Combination measles-mumps-rubella vaccine (MMR),93.2
@@ -96,5 +98,3 @@
 2010,Type B haemophilus influenzae (HIB) vaccine,77.3
 2010,Rotavirus (RV) vaccine,0
 2010,Pneumococcal vaccine (PC),0
-2010,Diphtheria and tetanus toxin (DT) vaccine at 7 years,98.2
-2010,Diphtheria and tetanus toxin (Td) vaccine at 15 years,98.6
