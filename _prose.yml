@@ -102,6 +102,11 @@ prose:
             element: text
             label: "Calculations"
             scope: national
+      - name: "comparison_global"
+        field:
+            element: text
+            label: "Comparison with global indicators"
+            scope: national      
       - name: "comments_limitations"
         field:
             element: text
