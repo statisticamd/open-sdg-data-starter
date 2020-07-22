@@ -99,7 +99,7 @@ prose:
             scope: national
       - name: "computation_calculations"
         field:
-            element: text
+            element: textarea
             label: "Calculations"
             scope: national
       - name: "comparison_global"
@@ -221,7 +221,7 @@ prose:
             element: text
             label: "Data supplier"
             scope: source_1
-      - name: reponsabile_monitoring_1
+      - name: reponsible_monitoring_1
         field:
             element: text
             label: "Responsible for monitoring"
