@@ -99,7 +99,7 @@ prose:
             scope: national
       - name: "computation_calculations"
         field:
-            element: text
+            element: textarea
             label: "Calculations"
             scope: national
       - name: "comparison_global"
