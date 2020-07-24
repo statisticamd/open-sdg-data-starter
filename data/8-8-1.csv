@@ -1,7 +1,397 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,"Economic activities, fatal accidents","Sex, non-fatal accidents","Economic activities, non-fatal accidents",Value
+2010,,,,6.6
+2010,,,,1.5
+2010,,,,12.7
+2010,"A Agriculture, forestry and fishing",,,
+2010,B Mining and quarrying,,,
+2010,C Manufacturing industry,,,
+2010,"D Production and supply of electric energy and heat, gas, hot water and airconditioning",,,
+2010,"E Water supply, sewerage, waste management and remediation activities",,,
+2010,F construction,,,
+2010,G Wholesale and retail trade; repair of motor vehicles and motorcycles,,,
+2010,H Transportation and storage,,,
+2010,I Accomodation and food service activities,,,
+2010,J Informații și comunicații,,,
+2010,K Financial and insurance activities,,,
+2010,L Real estate activities,,,
+2010,"M Professional, scientific and technical activities",,,
+2010,N Administrative and support service activities,,,
+2010,O Public administration and defence; compulsory social security,,,
+2010,P education,,,
+2010,Q Health and social work,,,
+2010,"R Arts, entertainment and recreation",,,
+2010,S Other service activities,,,
+2010,,Total,,89.5
+2010,,Men,,60.2
+2010,,Women,,124.8
+2010,,,"A Agriculture, forestry and fishing",
+2010,,,B Mining and quarrying,
+2010,,,C Manufacturing industry,
+2010,,,"D Production and supply of electric energy and heat, gas, hot water and airconditioning",
+2010,,,"E Water supply, sewerage, waste management and remediation activities",
+2010,,,F construction,
+2010,,,G Wholesale and retail trade; repair of motor vehicles and motorcycles,
+2010,,,H Transportation and storage,
+2010,,,I Accomodation and food service activities,
+2010,,,J Informații și comunicații,
+2010,,,K Financial and insurance activities,
+2010,,,L Real estate activities,
+2010,,,"M Professional, scientific and technical activities",
+2010,,,N Administrative and support service activities,
+2010,,,O Public administration and defence; compulsory social security,
+2010,,,P education,
+2010,,,Q Health and social work,
+2010,,,"R Arts, entertainment and recreation",
+2010,,,S Other service activities,
+2011,,,,4.6
+2011,,,,
+2011,,,,10.2
+2011,"A Agriculture, forestry and fishing",,,
+2011,B Mining and quarrying,,,
+2011,C Manufacturing industry,,,
+2011,"D Production and supply of electric energy and heat, gas, hot water and airconditioning",,,
+2011,"E Water supply, sewerage, waste management and remediation activities",,,
+2011,F construction,,,
+2011,G Wholesale and retail trade; repair of motor vehicles and motorcycles,,,
+2011,H Transportation and storage,,,
+2011,I Accomodation and food service activities,,,
+2011,J Informații și comunicații,,,
+2011,K Financial and insurance activities,,,
+2011,L Real estate activities,,,
+2011,"M Professional, scientific and technical activities",,,
+2011,N Administrative and support service activities,,,
+2011,O Public administration and defence; compulsory social security,,,
+2011,P education,,,
+2011,Q Health and social work,,,
+2011,"R Arts, entertainment and recreation",,,
+2011,S Other service activities,,,
+2011,,Total,,71.7
+2011,,Men,,33.0
+2011,,Women,,119.3
+2011,,,"A Agriculture, forestry and fishing",
+2011,,,B Mining and quarrying,
+2011,,,C Manufacturing industry,
+2011,,,"D Production and supply of electric energy and heat, gas, hot water and airconditioning",
+2011,,,"E Water supply, sewerage, waste management and remediation activities",
+2011,,,F construction,
+2011,,,G Wholesale and retail trade; repair of motor vehicles and motorcycles,
+2011,,,H Transportation and storage,
+2011,,,I Accomodation and food service activities,
+2011,,,J Informații și comunicații,
+2011,,,K Financial and insurance activities,
+2011,,,L Real estate activities,
+2011,,,"M Professional, scientific and technical activities",
+2011,,,N Administrative and support service activities,
+2011,,,O Public administration and defence; compulsory social security,
+2011,,,P education,
+2011,,,Q Health and social work,
+2011,,,"R Arts, entertainment and recreation",
+2011,,,S Other service activities,
+2012,,,,3.4
+2012,,,,1.2
+2012,,,,6.0
+2012,"A Agriculture, forestry and fishing",,,
+2012,B Mining and quarrying,,,
+2012,C Manufacturing industry,,,
+2012,"D Production and supply of electric energy and heat, gas, hot water and airconditioning",,,
+2012,"E Water supply, sewerage, waste management and remediation activities",,,
+2012,F construction,,,
+2012,G Wholesale and retail trade; repair of motor vehicles and motorcycles,,,
+2012,H Transportation and storage,,,
+2012,I Accomodation and food service activities,,,
+2012,J Informații și comunicații,,,
+2012,K Financial and insurance activities,,,
+2012,L Real estate activities,,,
+2012,"M Professional, scientific and technical activities",,,
+2012,N Administrative and support service activities,,,
+2012,O Public administration and defence; compulsory social security,,,
+2012,P education,,,
+2012,Q Health and social work,,,
+2012,"R Arts, entertainment and recreation",,,
+2012,S Other service activities,,,
+2012,,Total,,68.6
+2012,,Men,,49.9
+2012,,Women,,91.5
+2012,,,"A Agriculture, forestry and fishing",
+2012,,,B Mining and quarrying,
+2012,,,C Manufacturing industry,
+2012,,,"D Production and supply of electric energy and heat, gas, hot water and airconditioning",
+2012,,,"E Water supply, sewerage, waste management and remediation activities",
+2012,,,F construction,
+2012,,,G Wholesale and retail trade; repair of motor vehicles and motorcycles,
+2012,,,H Transportation and storage,
+2012,,,I Accomodation and food service activities,
+2012,,,J Informații și comunicații,
+2012,,,K Financial and insurance activities,
+2012,,,L Real estate activities,
+2012,,,"M Professional, scientific and technical activities",
+2012,,,N Administrative and support service activities,
+2012,,,O Public administration and defence; compulsory social security,
+2012,,,P education,
+2012,,,Q Health and social work,
+2012,,,"R Arts, entertainment and recreation",
+2012,,,S Other service activities,
+2013,,,,6.2
+2013,,,,0.3
+2013,,,,13.3
+2013,"A Agriculture, forestry and fishing",,,
+2013,B Mining and quarrying,,,
+2013,C Manufacturing industry,,,
+2013,"D Production and supply of electric energy and heat, gas, hot water and airconditioning",,,
+2013,"E Water supply, sewerage, waste management and remediation activities",,,
+2013,F construction,,,
+2013,G Wholesale and retail trade; repair of motor vehicles and motorcycles,,,
+2013,H Transportation and storage,,,
+2013,I Accomodation and food service activities,,,
+2013,J Informații și comunicații,,,
+2013,K Financial and insurance activities,,,
+2013,L Real estate activities,,,
+2013,"M Professional, scientific and technical activities",,,
+2013,N Administrative and support service activities,,,
+2013,O Public administration and defence; compulsory social security,,,
+2013,P education,,,
+2013,Q Health and social work,,,
+2013,"R Arts, entertainment and recreation",,,
+2013,S Other service activities,,,
+2013,,Total,,96.4
+2013,,Men,,45.7
+2013,,Women,,158.4
+2013,,,"A Agriculture, forestry and fishing",
+2013,,,B Mining and quarrying,
+2013,,,C Manufacturing industry,
+2013,,,"D Production and supply of electric energy and heat, gas, hot water and airconditioning",
+2013,,,"E Water supply, sewerage, waste management and remediation activities",
+2013,,,F construction,
+2013,,,G Wholesale and retail trade; repair of motor vehicles and motorcycles,
+2013,,,H Transportation and storage,
+2013,,,I Accomodation and food service activities,
+2013,,,J Informații și comunicații,
+2013,,,K Financial and insurance activities,
+2013,,,L Real estate activities,
+2013,,,"M Professional, scientific and technical activities",
+2013,,,N Administrative and support service activities,
+2013,,,O Public administration and defence; compulsory social security,
+2013,,,P education,
+2013,,,Q Health and social work,
+2013,,,"R Arts, entertainment and recreation",
+2013,,,S Other service activities,
+2014,,,,5.9
+2014,,,,0.3
+2014,,,,12.7
+2014,"A Agriculture, forestry and fishing",,,
+2014,B Mining and quarrying,,,
+2014,C Manufacturing industry,,,
+2014,"D Production and supply of electric energy and heat, gas, hot water and airconditioning",,,
+2014,"E Water supply, sewerage, waste management and remediation activities",,,
+2014,F construction,,,
+2014,G Wholesale and retail trade; repair of motor vehicles and motorcycles,,,
+2014,H Transportation and storage,,,
+2014,I Accomodation and food service activities,,,
+2014,J Informații și comunicații,,,
+2014,K Financial and insurance activities,,,
+2014,L Real estate activities,,,
+2014,"M Professional, scientific and technical activities",,,
+2014,N Administrative and support service activities,,,
+2014,O Public administration and defence; compulsory social security,,,
+2014,P education,,,
+2014,Q Health and social work,,,
+2014,"R Arts, entertainment and recreation",,,
+2014,S Other service activities,,,
+2014,,Total,,85.0
+2014,,Men,,31.4
+2014,,Women,,150.9
+2014,,,"A Agriculture, forestry and fishing",
+2014,,,B Mining and quarrying,
+2014,,,C Manufacturing industry,
+2014,,,"D Production and supply of electric energy and heat, gas, hot water and airconditioning",
+2014,,,"E Water supply, sewerage, waste management and remediation activities",
+2014,,,F construction,
+2014,,,G Wholesale and retail trade; repair of motor vehicles and motorcycles,
+2014,,,H Transportation and storage,
+2014,,,I Accomodation and food service activities,
+2014,,,J Informații și comunicații,
+2014,,,K Financial and insurance activities,
+2014,,,L Real estate activities,
+2014,,,"M Professional, scientific and technical activities",
+2014,,,N Administrative and support service activities,
+2014,,,O Public administration and defence; compulsory social security,
+2014,,,P education,
+2014,,,Q Health and social work,
+2014,,,"R Arts, entertainment and recreation",
+2014,,,S Other service activities,
+2015,,,,5.7
+2015,,,,0.6
+2015,,,,12.0
+2015,"A Agriculture, forestry and fishing",,,
+2015,B Mining and quarrying,,,
+2015,C Manufacturing industry,,,
+2015,"D Production and supply of electric energy and heat, gas, hot water and airconditioning",,,
+2015,"E Water supply, sewerage, waste management and remediation activities",,,
+2015,F construction,,,
+2015,G Wholesale and retail trade; repair of motor vehicles and motorcycles,,,
+2015,H Transportation and storage,,,
+2015,I Accomodation and food service activities,,,
+2015,J Informații și comunicații,,,
+2015,K Financial and insurance activities,,,
+2015,L Real estate activities,,,
+2015,"M Professional, scientific and technical activities",,,
+2015,N Administrative and support service activities,,,
+2015,O Public administration and defence; compulsory social security,,,
+2015,P education,,,
+2015,Q Health and social work,,,
+2015,"R Arts, entertainment and recreation",,,
+2015,S Other service activities,,,
+2015,,Total,,70.3
+2015,,Men,,29.4
+2015,,Women,,121.6
+2015,,,"A Agriculture, forestry and fishing",
+2015,,,B Mining and quarrying,
+2015,,,C Manufacturing industry,
+2015,,,"D Production and supply of electric energy and heat, gas, hot water and airconditioning",
+2015,,,"E Water supply, sewerage, waste management and remediation activities",
+2015,,,F construction,
+2015,,,G Wholesale and retail trade; repair of motor vehicles and motorcycles,
+2015,,,H Transportation and storage,
+2015,,,I Accomodation and food service activities,
+2015,,,J Informații și comunicații,
+2015,,,K Financial and insurance activities,
+2015,,,L Real estate activities,
+2015,,,"M Professional, scientific and technical activities",
+2015,,,N Administrative and support service activities,
+2015,,,O Public administration and defence; compulsory social security,
+2015,,,P education,
+2015,,,Q Health and social work,
+2015,,,"R Arts, entertainment and recreation",
+2015,,,S Other service activities,
+2016,,,,4.9
+2016,,,,1.3
+2016,,,,9.0
+2016,"A Agriculture, forestry and fishing",,,10.9
+2016,B Mining and quarrying,,,
+2016,C Manufacturing industry,,,7.7
+2016,"D Production and supply of electric energy and heat, gas, hot water and airconditioning",,,
+2016,"E Water supply, sewerage, waste management and remediation activities",,,13.0
+2016,F construction,,,14.5
+2016,G Wholesale and retail trade; repair of motor vehicles and motorcycles,,,5.4
+2016,H Transportation and storage,,,19.5
+2016,I Accomodation and food service activities,,,
+2016,J Informații și comunicații,,,
+2016,K Financial and insurance activities,,,
+2016,L Real estate activities,,,8.6
+2016,"M Professional, scientific and technical activities",,,
+2016,N Administrative and support service activities,,,18.2
+2016,O Public administration and defence; compulsory social security,,,
+2016,P education,,,
+2016,Q Health and social work,,,
+2016,"R Arts, entertainment and recreation",,,
+2016,S Other service activities,,,
+2016,,Total,,57.6
+2016,,Men,,43.0
+2016,,Women,,74.1
+2016,,,"A Agriculture, forestry and fishing",76.2
+2016,,,B Mining and quarrying,194.3
+2016,,,C Manufacturing industry,86.9
+2016,,,"D Production and supply of electric energy and heat, gas, hot water and airconditioning",134.9
+2016,,,"E Water supply, sewerage, waste management and remediation activities",130.1
+2016,,,F construction,87.2
+2016,,,G Wholesale and retail trade; repair of motor vehicles and motorcycles,42.4
+2016,,,H Transportation and storage,89.3
+2016,,,I Accomodation and food service activities,40.5
+2016,,,J Informații și comunicații,33.2
+2016,,,K Financial and insurance activities,41.4
+2016,,,L Real estate activities,34.4
+2016,,,"M Professional, scientific and technical activities",12.9
+2016,,,N Administrative and support service activities,136.3
+2016,,,O Public administration and defence; compulsory social security,15.5
+2016,,,P education,19.1
+2016,,,Q Health and social work,79.6
+2016,,,"R Arts, entertainment and recreation",110.4
+2016,,,S Other service activities,45.8
+2017,,,,6.8
+2017,,,,
+2017,,,,14.5
+2017,"A Agriculture, forestry and fishing",,,29.3
+2017,B Mining and quarrying,,,197.9
+2017,C Manufacturing industry,,,2.4
+2017,"D Production and supply of electric energy and heat, gas, hot water and airconditioning",,,
+2017,"E Water supply, sewerage, waste management and remediation activities",,,
+2017,F construction,,,36.7
+2017,G Wholesale and retail trade; repair of motor vehicles and motorcycles,,,2.1
+2017,H Transportation and storage,,,22.8
+2017,I Accomodation and food service activities,,,
+2017,J Informații și comunicații,,,
+2017,K Financial and insurance activities,,,
+2017,L Real estate activities,,,8.8
+2017,"M Professional, scientific and technical activities",,,
+2017,N Administrative and support service activities,,,17.1
+2017,O Public administration and defence; compulsory social security,,,4.0
+2017,P education,,,1.0
+2017,Q Health and social work,,,
+2017,"R Arts, entertainment and recreation",,,
+2017,S Other service activities,,,
+2017,,Total,,68.0
+2017,,Men,,44.2
+2017,,Women,,94.5
+2017,,,"A Agriculture, forestry and fishing",61.2
+2017,,,B Mining and quarrying,49.5
+2017,,,C Manufacturing industry,89.3
+2017,,,"D Production and supply of electric energy and heat, gas, hot water and airconditioning",73.2
+2017,,,"E Water supply, sewerage, waste management and remediation activities",132.8
+2017,,,F construction,114.6
+2017,,,G Wholesale and retail trade; repair of motor vehicles and motorcycles,49.8
+2017,,,H Transportation and storage,74.2
+2017,,,I Accomodation and food service activities,40.0
+2017,,,J Informații și comunicații,37.8
+2017,,,K Financial and insurance activities,40.4
+2017,,,L Real estate activities,53.0
+2017,,,"M Professional, scientific and technical activities",25.9
+2017,,,N Administrative and support service activities,85.4
+2017,,,O Public administration and defence; compulsory social security,169.4
+2017,,,P education,22.6
+2017,,,Q Health and social work,72.1
+2017,,,"R Arts, entertainment and recreation",33.2
+2017,,,S Other service activities,39.6
+2018,,,,6.2
+2018,,,,0.3
+2018,,,,12.6
+2018,"A Agriculture, forestry and fishing",,,5.3
+2018,B Mining and quarrying,,,
+2018,C Manufacturing industry,,,6.8
+2018,"D Production and supply of electric energy and heat, gas, hot water and airconditioning",,,9.4
+2018,"E Water supply, sewerage, waste management and remediation activities",,,39.6
+2018,F construction,,,25.6
+2018,G Wholesale and retail trade; repair of motor vehicles and motorcycles,,,5.9
+2018,H Transportation and storage,,,25.5
+2018,I Accomodation and food service activities,,,
+2018,J Informații și comunicații,,,
+2018,K Financial and insurance activities,,,
+2018,L Real estate activities,,,9.1
+2018,"M Professional, scientific and technical activities",,,6.5
+2018,N Administrative and support service activities,,,7.8
+2018,O Public administration and defence; compulsory social security,,,2.0
+2018,P education,,,
+2018,Q Health and social work,,,
+2018,"R Arts, entertainment and recreation",,,8.2
+2018,S Other service activities,,,
+2018,,Total,,75.9
+2018,,Men,,49.6
+2018,,Women,,104.5
+2018,,,"A Agriculture, forestry and fishing",42.5
+2018,,,B Mining and quarrying,51.3
+2018,,,C Manufacturing industry,106.0
+2018,,,"D Production and supply of electric energy and heat, gas, hot water and airconditioning",122.3
+2018,,,"E Water supply, sewerage, waste management and remediation activities",132.1
+2018,,,F construction,76.8
+2018,,,G Wholesale and retail trade; repair of motor vehicles and motorcycles,55.1
+2018,,,H Transportation and storage,84.9
+2018,,,I Accomodation and food service activities,0.0
+2018,,,J Informații și comunicații,41.0
+2018,,,K Financial and insurance activities,47.7
+2018,,,L Real estate activities,27.3
+2018,,,"M Professional, scientific and technical activities",38.9
+2018,,,N Administrative and support service activities,70.6
+2018,,,O Public administration and defence; compulsory social security,261.0
+2018,,,P education,13.6
+2018,,,Q Health and social work,82.8
+2018,,,"R Arts, entertainment and recreation",32.8
+2018,,,S Other service activities,19.2

@@ -1,7 +1,154 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Sex,Age group,duration of arrest,Value
+2010,,,,9.629981024667929
+2010,Men,,,
+2010,Women,,,
+2010,,Up to and including 15 years,,
+2010,,From 15 to 16 years,,
+2010,,From 16 to 17 years,,
+2010,,From 17 to 18 years,,
+2010,,From 18 to 21 years,,
+2010,,From 21 to 30 years,,
+2010,,From 30 to 40 years,,
+2010,,From 40 to 50 years,,
+2010,,From 50 to 60 years,,
+2010,,60 and over years,,
+2010,,,Up to 3 months,6.672991777356101
+2010,,,From 3 to 6 months,2.16635041113219
+2010,,,From 6 to 12 months,0.5534471853257429
+2010,,,More than 12 months,0.23719165085389
+2011,,,,10.3
+2011,Men,,,
+2011,Women,,,
+2011,,Up to and including 15 years,,
+2011,,From 15 to 16 years,,
+2011,,From 16 to 17 years,,
+2011,,From 17 to 18 years,,
+2011,,From 18 to 21 years,,
+2011,,From 21 to 30 years,,
+2011,,From 30 to 40 years,,
+2011,,From 40 to 50 years,,
+2011,,From 50 to 60 years,,
+2011,,60 and over years,,
+2011,,,Up to 3 months,
+2011,,,From 3 to 6 months,
+2011,,,From 6 to 12 months,
+2011,,,More than 12 months,
+2012,,,,11.2
+2012,Men,,,
+2012,Women,,,
+2012,,Up to and including 15 years,,
+2012,,From 15 to 16 years,,
+2012,,From 16 to 17 years,,
+2012,,From 17 to 18 years,,
+2012,,From 18 to 21 years,,
+2012,,From 21 to 30 years,,
+2012,,From 30 to 40 years,,
+2012,,From 40 to 50 years,,
+2012,,From 50 to 60 years,,
+2012,,60 and over years,,
+2012,,,Up to 3 months,6.09144766823637
+2012,,,From 3 to 6 months,3.3875132918122404
+2012,,,From 6 to 12 months,1.41272975846878
+2012,,,More than 12 months,0.28862220871942895
+2013,,,,11.7758645848533
+2013,Men,,,
+2013,Women,,,
+2013,,Up to and including 15 years,,
+2013,,From 15 to 16 years,,
+2013,,From 16 to 17 years,,
+2013,,From 17 to 18 years,,
+2013,,From 18 to 21 years,,
+2013,,From 21 to 30 years,,
+2013,,From 30 to 40 years,,
+2013,,From 40 to 50 years,,
+2013,,From 50 to 60 years,,
+2013,,60 and over years,,
+2013,,,Up to 3 months,5.95359696483292
+2013,,,From 3 to 6 months,4.23172333284693
+2013,,,From 6 to 12 months,1.16737195388881
+2013,,,More than 12 months,0.42317233328469306
+2014,,,,10.4141041410414
+2014,Men,,,
+2014,Women,,,
+2014,,Up to and including 15 years,,
+2014,,From 15 to 16 years,,
+2014,,From 16 to 17 years,,
+2014,,From 17 to 18 years,,
+2014,,From 18 to 21 years,,
+2014,,From 21 to 30 years,,
+2014,,From 30 to 40 years,,
+2014,,From 40 to 50 years,,
+2014,,From 50 to 60 years,,
+2014,,60 and over years,,
+2014,,,Up to 3 months,4.2913762470958
+2014,,,From 3 to 6 months,3.5670356703567
+2014,,,From 6 to 12 months,1.4076807434741003
+2014,,,More than 12 months,1.1480114801148
+2015,,,,11.6836354606407
+2015,Men,,,
+2015,Women,,,
+2015,,Up to and including 15 years,,
+2015,,From 15 to 16 years,,
+2015,,From 16 to 17 years,,
+2015,,From 17 to 18 years,,
+2015,,From 18 to 21 years,,
+2015,,From 21 to 30 years,,
+2015,,From 30 to 40 years,,
+2015,,From 40 to 50 years,,
+2015,,From 50 to 60 years,,
+2015,,60 and over years,,
+2015,,,Up to 3 months,5.26446486218028
+2015,,,From 3 to 6 months,4.4325800844301
+2015,,,From 6 to 12 months,1.4030295505339
+2015,,,More than 12 months,0.583560963496399
+2016,,,,8.825045091471269
+2016,Men,,,
+2016,Women,,,
+2016,,Up to and including 15 years,,
+2016,,From 15 to 16 years,,
+2016,,From 16 to 17 years,,
+2016,,From 17 to 18 years,,
+2016,,From 18 to 21 years,,
+2016,,From 21 to 30 years,,
+2016,,From 30 to 40 years,,
+2016,,From 40 to 50 years,,
+2016,,From 50 to 60 years,,
+2016,,60 and over years,,
+2016,,,Up to 3 months,4.483380572017519
+2016,,,From 3 to 6 months,2.31898995104355
+2016,,,From 6 to 12 months,2.0226745684102
+2016,,,More than 12 months,0.0
+2017,,,,9.233791748526519
+2017,Men,,,
+2017,Women,,,
+2017,,Up to and including 15 years,,
+2017,,From 15 to 16 years,,
+2017,,From 16 to 17 years,,
+2017,,From 17 to 18 years,,
+2017,,From 18 to 21 years,,
+2017,,From 21 to 30 years,,
+2017,,From 30 to 40 years,,
+2017,,From 40 to 50 years,,
+2017,,From 50 to 60 years,,
+2017,,60 and over years,,
+2017,,,Up to 3 months,5.9986902423051705
+2017,,,From 3 to 6 months,2.35756385068762
+2017,,,From 6 to 12 months,0.8775376555337259
+2017,,,More than 12 months,0.0
+2018,,,,6.824034334763949
+2018,Men,,,
+2018,Women,,,
+2018,,Up to and including 15 years,,
+2018,,From 15 to 16 years,,
+2018,,From 16 to 17 years,,
+2018,,From 17 to 18 years,,
+2018,,From 18 to 21 years,,
+2018,,From 21 to 30 years,,
+2018,,From 30 to 40 years,,
+2018,,From 40 to 50 years,,
+2018,,From 50 to 60 years,,
+2018,,60 and over years,,
+2018,,,Up to 3 months,4.4206008583691005
+2018,,,From 3 to 6 months,1.5307582260372001
+2018,,,From 6 to 12 months,0.8583690987124459
+2018,,,More than 12 months,0.0143061516452074
