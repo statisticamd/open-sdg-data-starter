@@ -206,7 +206,7 @@ prose:
             label: Source 1 active
             help: Whether or not to display this source
             value: true
-       - name: source_data_source_1
+      - name: source_data_source_1
         field:
             element: text
             label: "Data source"
@@ -221,7 +221,7 @@ prose:
             element: text
             label: "Data producer"
             scope: source_1
-      - name: Ssource_data_supplier_1
+      - name: source_data_supplier_1
         field:
             element: text
             label: "Data supplier"
@@ -231,7 +231,7 @@ prose:
             element: text
             label: "Data supplier"
             scope: source_1
-       - name: source_responsible_monitoring_1
+      - name: source_responsible_monitoring_1
         field:
             element: text
             label: "Responsible for monitoring"
