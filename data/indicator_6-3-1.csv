@@ -1,7 +1,208 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+﻿Year,Economic activities,Types of treatment,Rayons/Municipalities that have treatment plants,Value
+2010,,,,17.3
+2010,"Agriculture, forestry and fishing",,,0
+2010,Mining and quarrying,,,0
+2010,Manufacturing,,,43.9
+2010,"Production and supply of electric energy and heat, gas and hot water",,,17.6
+2010,Other activities,,,59.2
+2010,,,,
+2010,,,Mun. Chișinău,99.3
+2010,,,Mun. Bălți,99
+2010,,,Cahul,67.3
+2010,,,Călărași,0
+2010,,,Drochia,41.5
+2010,,,Edineț,42.9
+2010,,,Florești,53.5
+2010,,,Glodeni,85.1
+2010,,,Hâncești,23.5
+2010,,,Ialoveni,12
+2010,,,Nisporeni,60
+2010,,,Orhei,1.9
+2010,,,Rezina,18.8
+2010,,,Sângerei,6.9
+2010,,,Telenești,0
+2010,,,Uta găgăguzia,6.3
+2011,,,,16.8
+2011,"Agriculture, forestry and fishing",,,2.4
+2011,Mining and quarrying,,,0
+2011,Manufacturing,,,45.2
+2011,"Production and supply of electric energy and heat, gas and hot water",,,17.2
+2011,Other activities,,,50.9
+2011,,,,
+2011,,,Mun. Chișinău,99.3
+2011,,,Mun. Bălți,99
+2011,,,Cahul,80.4
+2011,,,Călărași,0
+2011,,,Drochia,43.2
+2011,,,Edineț,64.3
+2011,,,Florești,55.6
+2011,,,Glodeni,85.1
+2011,,,Hâncești,9
+2011,,,Ialoveni,12.5
+2011,,,Nisporeni,62.5
+2011,,,Orhei,1.8
+2011,,,Rezina,0
+2011,,,Sângerei,6.7
+2011,,,Telenești,0
+2011,,,Uta găgăguzia,7.4
+2012,,,,16.6
+2012,"Agriculture, forestry and fishing",,,2.4
+2012,Mining and quarrying,,,0
+2012,Manufacturing,,,40.4
+2012,"Production and supply of electric energy and heat, gas and hot water",,,16.9
+2012,Other activities,,,50.9
+2012,,,,
+2012,,,Mun. Chișinău,99.3
+2012,,,Mun. Bălți,97.8
+2012,,,Cahul,84.1
+2012,,,Călărași,0
+2012,,,Drochia,39.6
+2012,,,Edineț,41.7
+2012,,,Florești,52.4
+2012,,,Glodeni,55.6
+2012,,,Hâncești,0
+2012,,,Ialoveni,19.2
+2012,,,Nisporeni,61.1
+2012,,,Orhei,1.9
+2012,,,Rezina,3.8
+2012,,,Sângerei,6.9
+2012,,,Telenești,0
+2012,,,Uta găgăguzia,6
+2013,,,,16.6
+2013,"Agriculture, forestry and fishing",,,2.6
+2013,Mining and quarrying,,,0
+2013,Manufacturing,,,35.4
+2013,"Production and supply of electric energy and heat, gas and hot water",,,16.9
+2013,Other activities,,,52.4
+2013,,,,
+2013,,,Mun. Chișinău,99.3
+2013,,,Mun. Bălți,99.4
+2013,,,Cahul,83.3
+2013,,,Călărași,0
+2013,,,Drochia,25.6
+2013,,,Edineț,44.9
+2013,,,Florești,46.7
+2013,,,Glodeni,55.6
+2013,,,Hâncești,0
+2013,,,Ialoveni,21.7
+2013,,,Nisporeni,65
+2013,,,Orhei,0
+2013,,,Rezina,3.7
+2013,,,Sângerei,6.7
+2013,,,Telenești,0
+2013,,,Uta găgăguzia,6.3
+2014,,,,16.3
+2014,"Agriculture, forestry and fishing",,,3.8
+2014,Mining and quarrying,,,0
+2014,Manufacturing,,,37.5
+2014,"Production and supply of electric energy and heat, gas and hot water",,,16.4
+2014,Other activities,,,52.4
+2014,,,,
+2014,,,Mun. Chișinău,96.1
+2014,,,Mun. Bălți,0
+2014,,,Cahul,84.9
+2014,,,Călărași,0
+2014,,,Drochia,37.1
+2014,,,Edineț,70.2
+2014,,,Florești,45.7
+2014,,,Glodeni,55.6
+2014,,,Hâncești,0
+2014,,,Ialoveni,20
+2014,,,Nisporeni,68.2
+2014,,,Orhei,0
+2014,,,Rezina,3.7
+2014,,,Sângerei,7.4
+2014,,,Telenești,0
+2014,,,Uta găgăguzia,14.3
+2015,,,,16.7
+2015,"Agriculture, forestry and fishing",,,3.4
+2015,Mining and quarrying,,,0
+2015,Manufacturing,,,40.3
+2015,"Production and supply of electric energy and heat, gas and hot water",,,16.8
+2015,Other activities,,,53.9
+2015,,,,
+2015,,,Mun. Chișinău,99.4
+2015,,,Mun. Bălți,0
+2015,,,Cahul,86.4
+2015,,,Călărași,0
+2015,,,Drochia,40.7
+2015,,,Edineț,63.2
+2015,,,Florești,0
+2015,,,Glodeni,61.9
+2015,,,Hâncești,0
+2015,,,Ialoveni,20
+2015,,,Nisporeni,57.9
+2015,,,Orhei,33
+2015,,,Rezina,3.7
+2015,,,Sângerei,7.7
+2015,,,Telenești,0
+2015,,,Uta găgăguzia,13.2
+2016,,,,14
+2016,"Agriculture, forestry and fishing",,,3.7
+2016,Mining and quarrying,,,0
+2016,Manufacturing,,,35.6
+2016,"Production and supply of electric energy and heat, gas and hot water",,,14
+2016,Other activities,,,53.9
+2016,,,,
+2016,,,Mun. Chișinău,66.8
+2016,,,Mun. Bălți,0
+2016,,,Cahul,86
+2016,,,Călărași,0
+2016,,,Drochia,38.1
+2016,,,Edineț,59.5
+2016,,,Florești,22.4
+2016,,,Glodeni,0
+2016,,,Hâncești,0
+2016,,,Ialoveni,20
+2016,,,Nisporeni,60
+2016,,,Orhei,19.4
+2016,,,Rezina,3.4
+2016,,,Sângerei,8
+2016,,,Telenești,0
+2016,,,Uta găgăguzia,15
+2017,,,,17.1
+2017,"Agriculture, forestry and fishing",,,3.8
+2017,Mining and quarrying,,,0
+2017,Manufacturing,,,35.4
+2017,"Production and supply of electric energy and heat, gas and hot water",,,17.2
+2017,Other activities,,,53.9
+2017,,,,
+2017,,,Mun. Chișinău,99.4
+2017,,,Mun. Bălți,0
+2017,,,Cahul,87.4
+2017,,,Călărași,68.8
+2017,,,Drochia,41.7
+2017,,,Edineț,68.2
+2017,,,Florești,34
+2017,,,Glodeni,0
+2017,,,Hâncești,0
+2017,,,Ialoveni,20
+2017,,,Nisporeni,57.9
+2017,,,Orhei,19.6
+2017,,,Rezina,3.2
+2017,,,Sângerei,7.7
+2017,,,Telenești,0
+2017,,,Uta găgăguzia,14
+2018,,,,18
+2018,"Agriculture, forestry and fishing",,,3.7
+2018,Mining and quarrying,,,0
+2018,Manufacturing,,,77.8
+2018,"Production and supply of electric energy and heat, gas and hot water",,,17.2
+2018,Other activities,,,51.9
+2018,,,,
+2018,,,Mun. Chișinău,99.3
+2018,,,Mun. Bălți,99.3
+2018,,,Cahul,86.7
+2018,,,Călărași,84.9
+2018,,,Drochia,42.2
+2018,,,Edineț,69.2
+2018,,,Florești,0
+2018,,,Glodeni,0
+2018,,,Hâncești,0
+2018,,,Ialoveni,26.7
+2018,,,Nisporeni,61.1
+2018,,,Orhei,16.1
+2018,,,Rezina,6.4
+2018,,,Sângerei,8.3
+2018,,,Telenești,60
+2018,,,Uta găgăguzia,7.8

@@ -1,7 +1,208 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+﻿Year,Sex,Studies,Institutions where have been made payments,Value
+2010,,,,
+2010,Men,,,
+2010,Women,,,
+2010,,Secondary incomplete,,
+2010,,Secondary,,
+2010,,Secondary specialized,,
+2010,,Higher,,
+2010,,,Central public authorities,
+2010,,,Local public authorities,
+2010,,,Tax inspectorates,
+2010,,,Customs,
+2010,,,Police,
+2010,,,Prosecution,
+2010,,,Courts,
+2010,,,Educational institutions,
+2010,,,Medical institutions,
+2010,,,Civil status offices,
+2010,,,Passport offices,
+2010,,,Communal services,
+2010,,,Fire inspections,
+2010,,,Notary offices,
+2010,,,Transport registration and driver qualification,
+2010,,,Technical overhaul of cars,
+2011,,,,
+2011,Men,,,
+2011,Women,,,
+2011,,Secondary incomplete,,
+2011,,Secondary,,
+2011,,Secondary specialized,,
+2011,,Higher,,
+2011,,,Central public authorities,
+2011,,,Local public authorities,
+2011,,,Tax inspectorates,
+2011,,,Customs,
+2011,,,Police,
+2011,,,Prosecution,
+2011,,,Courts,
+2011,,,Educational institutions,
+2011,,,Medical institutions,
+2011,,,Civil status offices,
+2011,,,Passport offices,
+2011,,,Communal services,
+2011,,,Fire inspections,
+2011,,,Notary offices,
+2011,,,Transport registration and driver qualification,
+2011,,,Technical overhaul of cars,
+2012,,,,37.2
+2012,Men,,,
+2012,Women,,,
+2012,,Secondary incomplete,,
+2012,,Secondary,,
+2012,,Secondary specialized,,
+2012,,Higher,,
+2012,,,Central public authorities,0.9
+2012,,,Local public authorities,1.9
+2012,,,Tax inspectorates,1.4
+2012,,,Customs,4.4
+2012,,,Police,6.1
+2012,,,Prosecution,0.4
+2012,,,Courts,0.7
+2012,,,Educational institutions,11.7
+2012,,,Medical institutions,21.6
+2012,,,Civil status offices,1
+2012,,,Passport offices,1.1
+2012,,,Communal services,0.5
+2012,,,Fire inspections,0.2
+2012,,,Notary offices,0.4
+2012,,,Transport registration and driver qualification,1.4
+2012,,,Technical overhaul of cars,3.1
+2013,,,,
+2013,Men,,,
+2013,Women,,,
+2013,,Secondary incomplete,,
+2013,,Secondary,,
+2013,,Secondary specialized,,
+2013,,Higher,,
+2013,,,Central public authorities,
+2013,,,Local public authorities,
+2013,,,Tax inspectorates,
+2013,,,Customs,
+2013,,,Police,
+2013,,,Prosecution,
+2013,,,Courts,
+2013,,,Educational institutions,
+2013,,,Medical institutions,
+2013,,,Civil status offices,
+2013,,,Passport offices,
+2013,,,Communal services,
+2013,,,Fire inspections,
+2013,,,Notary offices,
+2013,,,Transport registration and driver qualification,
+2013,,,Technical overhaul of cars,
+2014,,,,34.2
+2014,Men,,,
+2014,Women,,,
+2014,,Secondary incomplete,,
+2014,,Secondary,,
+2014,,Secondary specialized,,
+2014,,Higher,,
+2014,,,Central public authorities,0.6
+2014,,,Local public authorities,1.5
+2014,,,Tax inspectorates,1
+2014,,,Customs,4.3
+2014,,,Police,7
+2014,,,Prosecution,1.2
+2014,,,Courts,0.8
+2014,,,Educational institutions,8.7
+2014,,,Medical institutions,23.2
+2014,,,Civil status offices,2.2
+2014,,,Passport offices,1.2
+2014,,,Communal services,0.3
+2014,,,Fire inspections,0.5
+2014,,,Notary offices,1.9
+2014,,,Transport registration and driver qualification,2
+2014,,,Technical overhaul of cars,3.5
+2015,,,,29.4
+2015,Men,,,31.2
+2015,Women,,,28
+2015,,Secondary incomplete,,23.6
+2015,,Secondary,,28.7
+2015,,Secondary specialized,,25
+2015,,Higher,,41.4
+2015,,,Central public authorities,0.3
+2015,,,Local public authorities,0.9
+2015,,,Tax inspectorates,0.4
+2015,,,Customs,3.5
+2015,,,Police,5
+2015,,,Prosecution,0.3
+2015,,,Courts,1
+2015,,,Educational institutions,5.8
+2015,,,Medical institutions,17.4
+2015,,,Civil status offices,0.3
+2015,,,Passport offices,0.3
+2015,,,Communal services,0
+2015,,,Fire inspections,0.4
+2015,,,Notary offices,0.6
+2015,,,Transport registration and driver qualification,2.1
+2015,,,Technical overhaul of cars,2.7
+2016,,,,
+2016,Men,,,
+2016,Women,,,
+2016,,Secondary incomplete,,
+2016,,Secondary,,
+2016,,Secondary specialized,,
+2016,,Higher,,
+2016,,,Central public authorities,
+2016,,,Local public authorities,
+2016,,,Tax inspectorates,
+2016,,,Customs,
+2016,,,Police,
+2016,,,Prosecution,
+2016,,,Courts,
+2016,,,Educational institutions,
+2016,,,Medical institutions,
+2016,,,Civil status offices,
+2016,,,Passport offices,
+2016,,,Communal services,
+2016,,,Fire inspections,
+2016,,,Notary offices,
+2016,,,Transport registration and driver qualification,
+2016,,,Technical overhaul of cars,
+2017,,,,
+2017,Men,,,
+2017,Women,,,
+2017,,Secondary incomplete,,
+2017,,Secondary,,
+2017,,Secondary specialized,,
+2017,,Higher,,
+2017,,,Central public authorities,
+2017,,,Local public authorities,
+2017,,,Tax inspectorates,
+2017,,,Customs,
+2017,,,Police,
+2017,,,Prosecution,
+2017,,,Courts,
+2017,,,Educational institutions,
+2017,,,Medical institutions,
+2017,,,Civil status offices,
+2017,,,Passport offices,
+2017,,,Communal services,
+2017,,,Fire inspections,
+2017,,,Notary offices,
+2017,,,Transport registration and driver qualification,
+2017,,,Technical overhaul of cars,
+2018,,,,19.5
+2018,Men,,,20.8
+2018,Women,,,18.5
+2018,,Secondary incomplete,,6.5
+2018,,Secondary,,17.4
+2018,,Secondary specialized,,19.7
+2018,,Higher,,32.2
+2018,,,Central public authorities,0.4
+2018,,,Local public authorities,0.4
+2018,,,Tax inspectorates,1
+2018,,,Customs,1.9
+2018,,,Police,5.1
+2018,,,Prosecution,0.7
+2018,,,Courts,1.3
+2018,,,Educational institutions,5.7
+2018,,,Medical institutions,14.6
+2018,,,Civil status offices,1.8
+2018,,,Passport offices,0.3
+2018,,,Communal services,0.4
+2018,,,Fire inspections,0.2
+2018,,,Notary offices,0.5
+2018,,,Transport registration and driver qualification,0.8
+2018,,,Technical overhaul of cars,3.5
