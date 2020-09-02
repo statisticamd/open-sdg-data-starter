@@ -1,28 +1,28 @@
-Year,Value
-2010,
-2010,
-2010,
-2011,
-2011,
-2011,
-2012,
-2012,
-2012,
-2013,
-2013,
-2013,
-2014,46.7
-2014,62.5
-2014,7.3
-2015,40.8
-2015,62.5
-2015,6.4
-2016,39.9
-2016,62.5
-2016,6.7
-2017,34.5
-2017,66.7
-2017,5.4
-2018,28.5
-2018,75.0
-2018,4.2
+Year,Subindicators,Value
+2010,Underground centralized sources,
+2010,Centralized surface sources,
+2010,Decentralized water supply sources (wells),
+2011,Underground centralized sources,
+2011,Centralized surface sources,
+2011,Decentralized water supply sources (wells),
+2012,Underground centralized sources,
+2012,Centralized surface sources,
+2012,Decentralized water supply sources (wells),
+2013,Underground centralized sources,
+2013,Centralized surface sources,
+2013,Decentralized water supply sources (wells),
+2014,Underground centralized sources,46.7
+2014,Centralized surface sources,62.5
+2014,Decentralized water supply sources (wells),7.3
+2015,Underground centralized sources,40.8
+2015,Centralized surface sources,62.5
+2015,Decentralized water supply sources (wells),6.4
+2016,Underground centralized sources,39.9
+2016,Centralized surface sources,62.5
+2016,Decentralized water supply sources (wells),6.7
+2017,Underground centralized sources,34.5
+2017,Centralized surface sources,66.7
+2017,Decentralized water supply sources (wells),5.4
+2018,Underground centralized sources,28.5
+2018,Centralized surface sources,75.0
+2018,Decentralized water supply sources (wells),4.2
