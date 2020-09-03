@@ -1,100 +1,100 @@
-Year,Units,Regions,Value
-2010,Tonnes,,1860.30
-2010,Tonnes,Municipiul Chişinău,296.10
-2010,Tonnes,North,822.20
-2010,Tonnes,Center,511.30
-2010,Tonnes,South,178.70
-2010,Tonnes,ATU Găgăuzia,52.00
-2011,Tonnes,,1845.30
-2011,Tonnes,Municipiul Chişinău,333.00
-2011,Tonnes,North,742.80
-2011,Tonnes,Center,515.20
-2011,Tonnes,South,191.10
-2011,Tonnes,ATU Găgăuzia,63.20
-2012,Tonnes,,2430.00
-2012,Tonnes,Municipiul Chişinău,243.50
-2012,Tonnes,North,773.20
-2012,Tonnes,Center,509.70
-2012,Tonnes,South,837.60
-2012,Tonnes,ATU Găgăuzia,66.00
-2013,Tonnes,,2511.70
-2013,Tonnes,Municipiul Chişinău,317.50
-2013,Tonnes,North,731.20
-2013,Tonnes,Center,580.40
-2013,Tonnes,South,853.40
-2013,Tonnes,ATU Găgăuzia,29.20
-2014,Tonnes,,1831.00
-2014,Tonnes,Municipiul Chişinău,267.30
-2014,Tonnes,North,803.90
-2014,Tonnes,Center,538.30
-2014,Tonnes,South,189.90
-2014,Tonnes,ATU Găgăuzia,31.60
-2015,Tonnes,,3981.20
-2015,Tonnes,Municipiul Chişinău,282.90
-2015,Tonnes,North,2487.30
-2015,Tonnes,Center,921.40
-2015,Tonnes,South,180.40
-2015,Tonnes,ATU Găgăuzia,109.20
-2016,Tonnes,,1609.50
-2016,Tonnes,Municipiul Chişinău,241.30
-2016,Tonnes,North,735.60
-2016,Tonnes,Center,437.40
-2016,Tonnes,South,162.50
-2016,Tonnes,ATU Găgăuzia,32.70
-2017,Tonnes,,1605.20
-2017,Tonnes,Municipiul Chişinău,131.90
-2017,Tonnes,North,560.80
-2017,Tonnes,Center,708.80
-2017,Tonnes,South,169.40
-2017,Tonnes,ATU Găgăuzia,34.30
-2018,Tonnes,,1597.30
-2018,Tonnes,Municipiul Chişinău,166.90
-2018,Tonnes,North,625.90
-2018,Tonnes,Center,565.30
-2018,Tonnes,South,156.70
-2018,Tonnes,ATU Găgăuzia,82.50
-Year,Units,Regions,Value
-2010,Tonnes,,1860.30
-2010,Tonnes,Municipiul Chişinău,296.10
-2010,Tonnes,North,822.20
-2010,Tonnes,Center,511.30
-2010,Tonnes,South,178.70
-2010,Tonnes,ATU Găgăuzia,52.00
-2011,Tonnes,,1845.30
-2011,Tonnes,Municipiul Chişinău,333.00
-2011,Tonnes,North,742.80
-2011,Tonnes,Center,515.20
-2011,Tonnes,South,191.10
-2011,Tonnes,ATU Găgăuzia,63.20
-2012,Tonnes,,2430.00
-2012,Tonnes,Municipiul Chişinău,243.50
-2012,Tonnes,North,773.20
-2012,Tonnes,Center,509.70
-2012,Tonnes,South,837.60
-2012,Tonnes,ATU Găgăuzia,66.00
-2013,Tonnes,,2511.70
-2013,Tonnes,Municipiul Chişinău,317.50
-2013,Tonnes,North,731.20
-2013,Tonnes,Center,580.40
-2013,Tonnes,South,853.40
-2013,Tonnes,ATU Găgăuzia,29.20
-2014,Tonnes,,1831.00
-2014,Tonnes,Municipiul Chişinău,267.30
-2014,Tonnes,North,803.90
-2014,Tonnes,Center,538.30
-2014,Tonnes,South,189.90
-2014,Tonnes,ATU Găgăuzia,31.60
-2015,Tonnes,,3981.20
-2015,Tonnes,Municipiul Chişinău,282.90
-2015,Tonnes,North,2487.30
-2015,Tonnes,Center,921.40
-2015,Tonnes,South,180.40
-2015,Tonnes,ATU Găgăuzia,109.20
-2016,Tonnes,,1609.50
-2016,Tonnes,Municipiul Chişinău,241.30
-2016,Tonnes,North,735.60
-2016,Tonnes,Center,437.40
-2016,Tonnes,South,162.50
-2016,Tonnes,ATU Găgăuzia,32.70
-2017,Tonnes,,1605.20
-2017,Tonnes,Municipiul Chişinău,131.90
+Year,Regions,Value
+2010,,1860.30
+2010,Municipiul Chişinău,296.10
+2010,North,822.20
+2010,Center,511.30
+2010,South,178.70
+2010,ATU Găgăuzia,52.00
+2011,,1845.30
+2011,Municipiul Chişinău,333.00
+2011,North,742.80
+2011,Center,515.20
+2011,South,191.10
+2011,ATU Găgăuzia,63.20
+2012,,2430.00
+2012,Municipiul Chişinău,243.50
+2012,North,773.20
+2012,Center,509.70
+2012,South,837.60
+2012,ATU Găgăuzia,66.00
+2013,,2511.70
+2013,Municipiul Chişinău,317.50
+2013,North,731.20
+2013,Center,580.40
+2013,South,853.40
+2013,ATU Găgăuzia,29.20
+2014,,1831.00
+2014,Municipiul Chişinău,267.30
+2014,North,803.90
+2014,Center,538.30
+2014,South,189.90
+2014,ATU Găgăuzia,31.60
+2015,,3981.20
+2015,Municipiul Chişinău,282.90
+2015,North,2487.30
+2015,Center,921.40
+2015,South,180.40
+2015,ATU Găgăuzia,109.20
+2016,,1609.50
+2016,Municipiul Chişinău,241.30
+2016,North,735.60
+2016,Center,437.40
+2016,South,162.50
+2016,ATU Găgăuzia,32.70
+2017,,1605.20
+2017,Municipiul Chişinău,131.90
+2017,North,560.80
+2017,Center,708.80
+2017,South,169.40
+2017,ATU Găgăuzia,34.30
+2018,,1597.30
+2018,Municipiul Chişinău,166.90
+2018,North,625.90
+2018,Center,565.30
+2018,South,156.70
+2018,ATU Găgăuzia,82.50
+Year,Regions,Value
+2010,,1860.30
+2010,Municipiul Chişinău,296.10
+2010,North,822.20
+2010,Center,511.30
+2010,South,178.70
+2010,ATU Găgăuzia,52.00
+2011,,1845.30
+2011,Municipiul Chişinău,333.00
+2011,North,742.80
+2011,Center,515.20
+2011,South,191.10
+2011,ATU Găgăuzia,63.20
+2012,,2430.00
+2012,Municipiul Chişinău,243.50
+2012,North,773.20
+2012,Center,509.70
+2012,South,837.60
+2012,ATU Găgăuzia,66.00
+2013,,2511.70
+2013,Municipiul Chişinău,317.50
+2013,North,731.20
+2013,Center,580.40
+2013,South,853.40
+2013,ATU Găgăuzia,29.20
+2014,,1831.00
+2014,Municipiul Chişinău,267.30
+2014,North,803.90
+2014,Center,538.30
+2014,South,189.90
+2014,ATU Găgăuzia,31.60
+2015,,3981.20
+2015,Municipiul Chişinău,282.90
+2015,North,2487.30
+2015,Center,921.40
+2015,South,180.40
+2015,ATU Găgăuzia,109.20
+2016,,1609.50
+2016,Municipiul Chişinău,241.30
+2016,North,735.60
+2016,Center,437.40
+2016,South,162.50
+2016,ATU Găgăuzia,32.70
+2017,,1605.20
+2017,Municipiul Chişinău,131.90
