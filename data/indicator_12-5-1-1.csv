@@ -1,100 +1,100 @@
-﻿Year,Kg/person,"regions, thousands tons",Type of economic activity of waste producer,Toxicity class,Waste circulation,Value
-2010,,,,,,1860.3
-2010,Resident popupation,,,,,522.3
-2010,Population with usual residence,,,,,
-2010,,Municipiul chişinău,,,,296.1
-2010,,North,,,,822.2
-2010,,Center,,,,511.3
-2010,,South,,,,178.7
-2010,,Atu găgăuzia,,,,52
-2010,,,,,,
-2010,,,,,,
-2010,,,,,,
-2011,,,,,,1845.3
-2011,Resident popupation,,,,,518.3
-2011,Population with usual residence,,,,,
-2011,,Municipiul chişinău,,,,333
-2011,,North,,,,742.8
-2011,,Center,,,,515.2
-2011,,South,,,,191.1
-2011,,Atu găgăuzia,,,,63.2
-2011,,,,,,
-2011,,,,,,
-2011,,,,,,
-2012,,,,,,2430
-2012,Resident popupation,,,,,682.7
-2012,Population with usual residence,,,,,
-2012,,Municipiul chişinău,,,,243.5
-2012,,North,,,,773.2
-2012,,Center,,,,509.7
-2012,,South,,,,837.6
-2012,,Atu găgăuzia,,,,66
-2012,,,,,,
-2012,,,,,,
-2012,,,,,,
-2013,,,,,,2511.7
-2013,Resident popupation,,,,,705.8
-2013,Population with usual residence,,,,,
-2013,,Municipiul chişinău,,,,317.5
-2013,,North,,,,731.2
-2013,,Center,,,,580.4
-2013,,South,,,,853.4
-2013,,Atu găgăuzia,,,,29.2
-2013,,,,,,
-2013,,,,,,
-2013,,,,,,
-2014,,,,,,1831
-2014,Resident popupation,,,,,514.8
-2014,Population with usual residence,,,,,640.9
-2014,,Municipiul chişinău,,,,267.3
-2014,,North,,,,803.9
-2014,,Center,,,,538.3
-2014,,South,,,,189.9
-2014,,Atu găgăuzia,,,,31.6
-2014,,,,,,
-2014,,,,,,
-2014,,,,,,
-2015,,,,,,3981.2
-2015,Resident popupation,,,,,1120.2
-2015,Population with usual residence,,,,,1404.5
-2015,,Municipiul chişinău,,,,282.9
-2015,,North,,,,2487.3
-2015,,Center,,,,921.4
-2015,,South,,,,180.4
-2015,,Atu găgăuzia,,,,109.2
-2015,,,,,,
-2015,,,,,,
-2015,,,,,,
-2016,,,,,,1609.5
-2016,Resident popupation,,,,,453.1
-2016,Population with usual residence,,,,,574.4
-2016,,Municipiul chişinău,,,,241.3
-2016,,North,,,,735.6
-2016,,Center,,,,437.4
-2016,,South,,,,162.5
-2016,,Atu găgăuzia,,,,32.7
-2016,,,,,,
-2016,,,,,,
-2016,,,,,,
-2017,,,,,,1605.2
-2017,Resident popupation,,,,,452.3
-2017,Population with usual residence,,,,,582.6
-2017,,Municipiul chişinău,,,,131.9
-2017,,North,,,,560.8
-2017,,Center,,,,708.8
-2017,,South,,,,169.4
-2017,,Atu găgăuzia,,,,34.3
-2017,,,,,,
-2017,,,,,,
-2017,,,,,,
-2018,,,,,,1597.3
-2018,Resident popupation,,,,,450.6
-2018,Population with usual residence,,,,,590.3
-2018,,Municipiul chişinău,,,,166.9
-2018,,North,,,,625.9
-2018,,Center,,,,565.3
-2018,,South,,,,156.7
-2018,,Atu găgăuzia,,,,82.5
-2018,,,,,,
-2018,,,,,,
-2018,,,,,,
+Year,Units,Regions,Value
+2010,,,1860.3
+2010,Kg/person,,
+2010,Tonnes,Municipiul Chişinău,296.1
+2010,Tonnes,North,822.2
+2010,Tonnes,Center,511.3
+2010,Tonnes,South,178.7
+2010,Tonnes,ATU Găgăuzia,52
+2010,,,
+2010,,,
+2010,,,
+2011,Tonnes,,1845.3
+2011,Kg/person,,
+2011,Tonnes,Municipiul Chişinău,333
+2011,Tonnes,North,742.8
+2011,Tonnes,Center,515.2
+2011,Tonnes,South,191.1
+2011,Tonnes,ATU Găgăuzia,63.2
+2011,,,
+2011,,,
+2011,,,
+2012,Tonnes,,2430
+2012,Kg/person,,
+2012,Tonnes,Municipiul Chişinău,243.5
+2012,Tonnes,North,773.2
+2012,Tonnes,Center,509.7
+2012,Tonnes,South,837.6
+2012,Tonnes,ATU Găgăuzia,66
+2012,,,
+2012,,,
+2012,,,
+2013,Tonnes,,2511.7
+2013,Kg/person,,
+2013,Tonnes,Municipiul Chişinău,317.5
+2013,Tonnes,North,731.2
+2013,Tonnes,Center,580.4
+2013,Tonnes,South,853.4
+2013,Tonnes,ATU Găgăuzia,29.2
+2013,,,
+2013,,,
+2013,,,
+2014,Tonnes,,1831
+2014,Kg/person,,640.9
+2014,Tonnes,Municipiul Chişinău,267.3
+2014,Tonnes,North,803.9
+2014,Tonnes,Center,538.3
+2014,Tonnes,South,189.9
+2014,Tonnes,ATU Găgăuzia,31.6
+2014,,,
+2014,,,
+2014,,,
+2015,Tonnes,,3981.2
+2015,Kg/person,,1404.5
+2015,Tonnes,Municipiul Chişinău,282.9
+2015,Tonnes,North,2487.3
+2015,Tonnes,Center,921.4
+2015,Tonnes,South,180.4
+2015,Tonnes,ATU Găgăuzia,109.2
+2015,,,
+2015,,,
+2015,,,
+2016,Tonnes,,1609.5
+2016,Kg/person,,574.4
+2016,Tonnes,Municipiul Chişinău,241.3
+2016,Tonnes,North,735.6
+2016,Tonnes,Center,437.4
+2016,Tonnes,South,162.5
+2016,Tonnes,ATU Găgăuzia,32.7
+2016,,,
+2016,,,
+2016,,,
+2017,Tonnes,,1605.2
+2017,Kg/person,,582.6
+2017,Tonnes,Municipiul Chişinău,131.9
+2017,Tonnes,North,560.8
+2017,Tonnes,Center,708.8
+2017,Tonnes,South,169.4
+2017,Tonnes,ATU Găgăuzia,34.3
+2017,,,
+2017,,,
+2017,,,
+2018,Tonnes,,1597.3
+2018,Kg/person,,590.3
+2018,Tonnes,Municipiul Chişinău,166.9
+2018,Tonnes,North,625.9
+2018,Tonnes,Center,565.3
+2018,Tonnes,South,156.7
+2018,Tonnes,ATU Găgăuzia,82.5
+2018,,,
+2018,,,
+2018,,,
+Year,Units,Regions,Value
+2010,,,1860.3
+2010,Kg/person,,
+2010,Tonnes,Municipiul Chişinău,296.1
+2010,Tonnes,North,822.2
+2010,Tonnes,Center,511.3
+2010,Tonnes,South,178.7
+2010,Tonnes,ATU Găgăuzia,52
+2010,,,
