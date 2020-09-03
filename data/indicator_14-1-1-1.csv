@@ -1,19 +1,19 @@
-﻿Year,Value
-2010,2.75
-2010,0.3
-2011,3.35
-2011,0.26
-2012,3.83
-2012,0.36
-2013,4.3
-2013,0.3
-2014,3.61
-2014,0.24
-2015,3.58
-2015,0.23
-2016,4.07
-2016,0.3
-2017,3.52
-2017,0.22
-2018,3.55
-2018,0.26
+Year,Level of eutrophication in rivers,Value
+2010,Nitrate concentration - mgN / l,2.75
+2010,Phosphate concentration - mgN / l,0.3
+2011,Nitrate concentration - mgN / l,3.35
+2011,Phosphate concentration - mgN / l,0.26
+2012,Nitrate concentration - mgN / l,3.83
+2012,Phosphate concentration - mgN / l,0.36
+2013,Nitrate concentration - mgN / l,4.3
+2013,Phosphate concentration - mgN / l,0.3
+2014,Nitrate concentration - mgN / l,3.61
+2014,Phosphate concentration - mgN / l,0.24
+2015,Nitrate concentration - mgN / l,3.58
+2015,Phosphate concentration - mgN / l,0.23
+2016,Nitrate concentration - mgN / l,4.07
+2016,Phosphate concentration - mgN / l,0.3
+2017,Nitrate concentration - mgN / l,3.52
+2017,Phosphate concentration - mgN / l,0.22
+2018,Nitrate concentration - mgN / l,3.55
+2018,Phosphate concentration - mgN / l,0.26
