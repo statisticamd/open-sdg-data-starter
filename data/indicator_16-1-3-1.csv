@@ -1,4 +1,4 @@
-﻿Year,Types of crimes,Sex,Age group,Value
+Year,Types of crimes,Sex,Age group,Value
 2010,,,,
 2010,Premeditated severe injuries,,,
 2010,Kidnapping a person,,,
@@ -51,68 +51,68 @@
 2013,,Women,,
 2013,,,0-17 years,
 2013,,,18 years and over,
-2014,,,,97.79660127058577
-2014,Premeditated severe injuries,,,4.585309508391816
-2014,Kidnapping a person,,,1.43509686903866
-2014,Sexual assault,,,9.555645006037908
-2014,Robbery,,,22.786538091321166
-2014,Brigandage,,,2.205148847547209
-2014,Blackmail,,,1.225082693081783
-2014,Domestic violence,,,30.452055513747176
-2014,Hooliganism,,,25.55172474142005
-2014,,Men,,96.53466790324367
-2014,,Women,,98.96177651872665
-2014,,,0-17 years,41.49000998353365
-2014,,,18 years and over,113.30690993573917
-2015,,,,115.68055374259578
-2015,Premeditated severe injuries,,,4.762694344388664
-2015,Kidnapping a person,,,1.4464479119995202
-2015,Sexual assault,,,11.077674252874374
-2015,Robbery,,,25.083523547113632
-2015,Brigandage,,,2.6459413024381466
-2015,Blackmail,,,0.5997466952193132
-2015,Domestic violence,,,39.900794840767254
-2015,Hooliganism,,,30.163730847794874
-2015,,Men,,112.45087151259258
-2015,,Women,,118.67306386527548
-2015,,,0-17 years,52.76099433928771
-2015,,,18 years and over,93.79522991960025
-2016,,,,132.43307864976072
-2016,Premeditated severe injuries,,,5.8169204580735645
-2016,Kidnapping a person,,,1.391778514508399
-2016,Sexual assault,,,13.596605487889743
-2016,Robbery,,,27.407330747242316
-2016,Brigandage,,,2.8906169147482133
-2016,Blackmail,,,1.2133453716227067
-2016,Domestic violence,,,39.57647109204652
-2016,Hooliganism,,,40.54001006362926
-2016,,Men,,138.12903479737733
-2016,,Women,,127.16379397404376
-2016,,,0-17 years,51.66863184112558
-2016,,,18 years and over,154.61793131306516
-2017,,,,117.23465587091556
-2017,Premeditated severe injuries,,,5.8072894549060345
-2017,Kidnapping a person,,,1.2340490091675325
-2017,Sexual assault,,,17.67593727837024
-2017,Robbery,,,25.1165268924686
-2017,Brigandage,,,2.5769846956145526
-2017,Blackmail,,,1.2703445682606949
-2017,Domestic violence,,,21.051424274034375
-2017,Hooliganism,,,42.50209969809354
-2017,,Men,,135.7216092899964
-2017,,Women,,100.2406053167227
-2017,,,0-17 years,78.39840400866052
-2017,,,18 years and over,128.08166052468482
-2018,,,,119.32525981606393
-2018,Premeditated severe injuries,,,6.725672742806949
-2018,Kidnapping a person,,,1.5890325711027407
-2018,Sexual assault,,,20.177018228420845
-2018,Robbery,,,21.839959291202785
-2018,Brigandage,,,2.40202597957391
-2018,Blackmail,,,2.919385421328291
-2018,Domestic violence,,,24.981070187568662
-2018,Hooliganism,,,38.69109539405975
-2018,,Men,,134.13442251723535
-2018,,Women,,105.80948496862116
-2018,,,0-17 years,96.7127765328301
-2018,,,18 years and over,125.67815316072272
+2014,,,,97.8
+2014,Premeditated severe injuries,,,4.6
+2014,Kidnapping a person,,,1.4
+2014,Sexual assault,,,9.6
+2014,Robbery,,,22.8
+2014,Brigandage,,,2.2
+2014,Blackmail,,,1.2
+2014,Domestic violence,,,30.5
+2014,Hooliganism,,,25.6
+2014,,Men,,96.5
+2014,,Women,,99.0
+2014,,,0-17 years,41.5
+2014,,,18 years and over,113.3
+2015,,,,115.7
+2015,Premeditated severe injuries,,,4.8
+2015,Kidnapping a person,,,1.4
+2015,Sexual assault,,,11.1
+2015,Robbery,,,25.1
+2015,Brigandage,,,2.6
+2015,Blackmail,,,0.6
+2015,Domestic violence,,,39.9
+2015,Hooliganism,,,30.2
+2015,,Men,,112.5
+2015,,Women,,118.7
+2015,,,0-17 years,52.8
+2015,,,18 years and over,93.8
+2016,,,,132.4
+2016,Premeditated severe injuries,,,5.8
+2016,Kidnapping a person,,,1.4
+2016,Sexual assault,,,13.6
+2016,Robbery,,,27.4
+2016,Brigandage,,,2.9
+2016,Blackmail,,,1.2
+2016,Domestic violence,,,39.6
+2016,Hooliganism,,,40.5
+2016,,Men,,138.1
+2016,,Women,,127.2
+2016,,,0-17 years,51.7
+2016,,,18 years and over,154.6
+2017,,,,117.2
+2017,Premeditated severe injuries,,,5.8
+2017,Kidnapping a person,,,1.2
+2017,Sexual assault,,,17.7
+2017,Robbery,,,25.1
+2017,Brigandage,,,2.6
+2017,Blackmail,,,1.3
+2017,Domestic violence,,,21.1
+2017,Hooliganism,,,42.5
+2017,,Men,,135.7
+2017,,Women,,100.2
+2017,,,0-17 years,78.4
+2017,,,18 years and over,128.1
+2018,,,,119.3
+2018,Premeditated severe injuries,,,6.7
+2018,Kidnapping a person,,,1.6
+2018,Sexual assault,,,20.2
+2018,Robbery,,,21.8
+2018,Brigandage,,,2.4
+2018,Blackmail,,,2.9
+2018,Domestic violence,,,25.0
+2018,Hooliganism,,,38.7
+2018,,Men,,134.1
+2018,,Women,,105.8
+2018,,,0-17 years,96.7
+2018,,,18 years and over,125.7
