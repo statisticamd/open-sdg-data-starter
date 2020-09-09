@@ -5,8 +5,8 @@ Year,Sex,Age groups of the victim,Means of committing,Context/reason,Value
 2010,,0-17 years,,,
 2010,,18 years and over,,,
 2010,,,Firearms and explosive substances,,
-2010,,,"White weapons (Knife, Sharp objects",,
-2010,,,"Tools: Row, Axe, Hammer, etc.",,
+2010,,,"White weapons (knife, sharp objects)",,
+2010,,,"Tools (row, axe, hammer etc.)",,
 2010,,,Other means,,
 2010,,,,Revenge (code = 14),
 2010,,,,Jealousy (code = 15),
@@ -20,8 +20,8 @@ Year,Sex,Age groups of the victim,Means of committing,Context/reason,Value
 2011,,0-17 years,,,
 2011,,18 years and over,,,
 2011,,,Firearms and explosive substances,,
-2011,,,"White weapons (Knife, Sharp objects",,
-2011,,,"Tools: Row, Axe, Hammer, etc.",,
+2011,,,"White weapons (knife, sharp objects)",,
+2011,,,"Tools (row, axe, hammer etc.)",,
 2011,,,Other means,,
 2011,,,,Revenge (code = 14),
 2011,,,,Jealousy (code = 15),
@@ -35,8 +35,8 @@ Year,Sex,Age groups of the victim,Means of committing,Context/reason,Value
 2012,,0-17 years,,,
 2012,,18 years and over,,,
 2012,,,Firearms and explosive substances,,
-2012,,,"White weapons (Knife, Sharp objects",,
-2012,,,"Tools: Row, Axe, Hammer, etc.",,
+2012,,,"White weapons (knife, sharp objects)",,
+2012,,,"Tools (row, axe, hammer etc.)",,
 2012,,,Other means,,
 2012,,,,Revenge (code = 14),
 2012,,,,Jealousy (code = 15),
@@ -50,8 +50,8 @@ Year,Sex,Age groups of the victim,Means of committing,Context/reason,Value
 2013,,0-17 years,,,
 2013,,18 years and over,,,
 2013,,,Firearms and explosive substances,,
-2013,,,"White weapons (Knife, Sharp objects",,
-2013,,,"Tools: Row, Axe, Hammer, etc.",,
+2013,,,"White weapons (knife, sharp objects)",,
+2013,,,"Tools (row, axe, hammer etc.)",,
 2013,,,Other means,,
 2013,,,,Revenge (code = 14),
 2013,,,,Jealousy (code = 15),
@@ -65,8 +65,8 @@ Year,Sex,Age groups of the victim,Means of committing,Context/reason,Value
 2014,,0-17 years,,,0
 2014,,18 years and over,,,7.812674390053349
 2014,,,Firearms and explosive substances,,0.2450165386163566
-2014,,,"White weapons (Knife, Sharp objects",,1.225082693081783
-2014,,,"Tools: Row, Axe, Hammer, etc.",,0.2800189012758361
+2014,,,"White weapons (knife, sharp objects)",,1.225082693081783
+2014,,,"Tools (row, axe, hammer etc.)",,0.2800189012758361
 2014,,,Other means,,4.3752953324349395
 2014,,,,Revenge (code = 14),0.2
 2014,,,,Jealousy (code = 15),
@@ -80,8 +80,8 @@ Year,Sex,Age groups of the victim,Means of committing,Context/reason,Value
 2015,,0-17 years,,,0.6574513896878749
 2015,,18 years and over,,,8.31033018963275
 2015,,,Firearms and explosive substances,,0.28223373892673564
-2015,,,"White weapons (Knife, Sharp objects",,0.9878180862435748
-2015,,,"Tools: Row, Axe, Hammer, etc.",,0.28223373892673564
+2015,,,"White weapons (knife, sharp objects)",,0.9878180862435748
+2015,,,"Tools (row, axe, hammer etc.)",,0.28223373892673564
 2015,,,Other means,,5.115486518047084
 2015,,,,Revenge (code = 14),0.1
 2015,,,,Jealousy (code = 15),0.2
@@ -95,8 +95,8 @@ Year,Sex,Age groups of the victim,Means of committing,Context/reason,Value
 2016,,0-17 years,,,1.6560376649206512
 2016,,18 years and over,,,8.642896880687537
 2016,,,Firearms and explosive substances,,0.24980640003996904
-2016,,,"White weapons (Knife, Sharp objects",,1.2847186287769834
-2016,,,"Tools: Row, Axe, Hammer, etc.",,0.17843314288569215
+2016,,,"White weapons (knife, sharp objects)",,1.2847186287769834
+2016,,,"Tools (row, axe, hammer etc.)",,0.17843314288569215
 2016,,,Other means,,5.424367543725042
 2016,,,,Revenge (code = 14),0.1
 2016,,,,Jealousy (code = 15),0.1
@@ -110,8 +110,8 @@ Year,Sex,Age groups of the victim,Means of committing,Context/reason,Value
 2017,,0-17 years,,,2.0016513623739587
 2017,,18 years and over,,,5.984207259539244
 2017,,,Firearms and explosive substances,,0.508137827304278
-2017,,,"White weapons (Knife, Sharp objects",,1.5970046000991596
-2017,,,"Tools: Row, Axe, Hammer, etc.",,0.4718422682111153
+2017,,,"White weapons (knife, sharp objects)",,1.5970046000991596
+2017,,,"Tools (row, axe, hammer etc.)",,0.4718422682111153
 2017,,,Other means,,2.5406891365213897
 2017,,,,Revenge (code = 14),0.2
 2017,,,,Jealousy (code = 15),0.2
@@ -125,8 +125,8 @@ Year,Sex,Age groups of the victim,Means of committing,Context/reason,Value
 2018,,0-17 years,,,1.6848887383721618
 2018,,18 years and over,,,7.384489542426733
 2018,,,Firearms and explosive substances,,0.48040519591478203
-2018,,,"White weapons (Knife, Sharp objects",,1.625986816942339
-2018,,,"Tools: Row, Axe, Hammer, etc.",,0.5543136875939793
+2018,,,"White weapons (knife, sharp objects)",,1.625986816942339
+2018,,,"Tools (row, axe, hammer etc.)",,0.5543136875939793
 2018,,,Other means,,3.47369910892227
 2018,,,,Revenge (code = 14),0.2
 2018,,,,Jealousy (code = 15),0.1
