@@ -1,4 +1,4 @@
-﻿Year,Of which ethnicity:,Sex,Age group,From total with disability:,Citizenship,Beneficiary status - foreign citizen,Applicant organs,legal basis,Type of qualified assistance,Primary care,Value
+Year,Ethnicity,Sex,Age group,Disability,Citizenship,Beneficiary status - foreign citizen,Requested authority,Legal basis,Type of qualified assistance,Primary care,Value
 2010,,,,,,,,,,,23007
 2010,Bulgarians,,,,,,,,,,
 2010,Roma,,,,,,,,,,
@@ -25,7 +25,7 @@
 2010,,,,,,,Court,,,,
 2010,,,,,,,Court of Appeal,,,,
 2010,,,,,,,Supreme Court of Justice,,,,
-2010,,,,,,,Other organs,,,,
+2010,,,,,,,Other authorities,,,,
 2010,,,,,,,,Regardless of income level (art. 20 law 198),,,
 2010,,,,,,,,Depending on the income level (art. 21 law 198),,,
 2010,,,,,,,,,Qualified criminal cases,,
@@ -60,7 +60,7 @@
 2011,,,,,,,Court,,,,
 2011,,,,,,,Court of Appeal,,,,
 2011,,,,,,,Supreme Court of Justice,,,,
-2011,,,,,,,Other organs,,,,
+2011,,,,,,,Other authorities,,,,
 2011,,,,,,,,Regardless of income level (art. 20 law 198),,,
 2011,,,,,,,,Depending on the income level (art. 21 law 198),,,
 2011,,,,,,,,,Qualified criminal cases,,
@@ -95,7 +95,7 @@
 2012,,,,,,,Court,,,,
 2012,,,,,,,Court of Appeal,,,,
 2012,,,,,,,Supreme Court of Justice,,,,
-2012,,,,,,,Other organs,,,,
+2012,,,,,,,Other authorities,,,,
 2012,,,,,,,,Regardless of income level (art. 20 law 198),,,
 2012,,,,,,,,Depending on the income level (art. 21 law 198),,,
 2012,,,,,,,,,Qualified criminal cases,,
@@ -130,7 +130,7 @@
 2013,,,,,,,Court,,,,8081
 2013,,,,,,,Court of Appeal,,,,3606
 2013,,,,,,,Supreme Court of Justice,,,,406
-2013,,,,,,,Other organs,,,,3121
+2013,,,,,,,Other authorities,,,,3121
 2013,,,,,,,,Regardless of income level (art. 20 law 198),,,27032
 2013,,,,,,,,Depending on the income level (art. 21 law 198),,,9975
 2013,,,,,,,,,Qualified criminal cases,,
@@ -165,7 +165,7 @@
 2014,,,,,,,Court,,,,8854
 2014,,,,,,,Court of Appeal,,,,3950
 2014,,,,,,,Supreme Court of Justice,,,,352
-2014,,,,,,,Other organs,,,,2712
+2014,,,,,,,Other authorities,,,,2712
 2014,,,,,,,,Regardless of income level (art. 20 law 198),,,27356
 2014,,,,,,,,Depending on the income level (art. 21 law 198),,,15791
 2014,,,,,,,,,Qualified criminal cases,,36108
@@ -200,7 +200,7 @@
 2015,,,,,,,Court,,,,9465
 2015,,,,,,,Court of Appeal,,,,3983
 2015,,,,,,,Supreme Court of Justice,,,,40
-2015,,,,,,,Other organs,,,,2846
+2015,,,,,,,Other authorities,,,,2846
 2015,,,,,,,,Regardless of income level (art. 20 law 198),,,28671
 2015,,,,,,,,Depending on the income level (art. 21 law 198),,,15309
 2015,,,,,,,,,Qualified criminal cases,,36124
@@ -235,7 +235,7 @@
 2016,,,,,,,Court,,,,13453
 2016,,,,,,,Court of Appeal,,,,4267
 2016,,,,,,,Supreme Court of Justice,,,,72
-2016,,,,,,,Other organs,,,,2703
+2016,,,,,,,Other authorities,,,,2703
 2016,,,,,,,,Regardless of income level (art. 20 law 198),,,37535
 2016,,,,,,,,Depending on the income level (art. 21 law 198),,,17066
 2016,,,,,,,,,Qualified criminal cases,,40366
@@ -270,7 +270,7 @@
 2017,,,,,,,Court,,,,20039
 2017,,,,,,,Court of Appeal,,,,5626
 2017,,,,,,,Supreme Court of Justice,,,,60
-2017,,,,,,,Other organs,,,,2659
+2017,,,,,,,Other authorities,,,,2659
 2017,,,,,,,,Regardless of income level (art. 20 law 198),,,38863
 2017,,,,,,,,Depending on the income level (art. 21 law 198),,,15738
 2017,,,,,,,,,Qualified criminal cases,,44005
@@ -305,7 +305,7 @@
 2018,,,,,,,Court,,,,19020
 2018,,,,,,,Court of Appeal,,,,5269
 2018,,,,,,,Supreme Court of Justice,,,,43
-2018,,,,,,,Other organs,,,,2406
+2018,,,,,,,Other authorities,,,,2406
 2018,,,,,,,,Regardless of income level (art. 20 law 198),,,36432
 2018,,,,,,,,Depending on the income level (art. 21 law 198),,,13356
 2018,,,,,,,,,Qualified criminal cases,,39929
