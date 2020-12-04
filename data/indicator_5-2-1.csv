@@ -1,4 +1,4 @@
-﻿Year,Area of residence,Age group,Level of education,Form of violence,Value
+Year,Area of residence,Age group,Level of education,Form of violence,Value
 2010,,,,,26.8
 2010,Urban,,,,18.8
 2010,Rural,,,,33.1
@@ -13,7 +13,7 @@
 2010,,,Secondary school,,21.4
 2010,,,Gymnasium,,37
 2010,,,,Psychological,25.7
-2010,,,,Physics,8.9
+2010,,,,Physical,8.9
 2010,,,,Sexual,4.1
 2011,,,,,
 2011,Urban,,,,
@@ -29,7 +29,7 @@
 2011,,,Secondary school,,
 2011,,,Gymnasium,,
 2011,,,,Psychological,
-2011,,,,Physics,
+2011,,,,Physical,
 2011,,,,Sexual,
 2012,,,,,
 2012,Urban,,,,
@@ -45,7 +45,7 @@
 2012,,,Secondary school,,
 2012,,,Gymnasium,,
 2012,,,,Psychological,
-2012,,,,Physics,
+2012,,,,Physical,
 2012,,,,Sexual,
 2013,,,,,
 2013,Urban,,,,
@@ -61,7 +61,7 @@
 2013,,,Secondary school,,
 2013,,,Gymnasium,,
 2013,,,,Psychological,
-2013,,,,Physics,
+2013,,,,Physical,
 2013,,,,Sexual,
 2014,,,,,
 2014,Urban,,,,
@@ -93,7 +93,7 @@
 2015,,,Secondary school,,
 2015,,,Gymnasium,,
 2015,,,,Psychological,
-2015,,,,Physics,
+2015,,,,Physical,
 2015,,,,Sexual,
 2016,,,,,
 2016,Urban,,,,
@@ -109,7 +109,7 @@
 2016,,,Secondary school,,
 2016,,,Gymnasium,,
 2016,,,,Psychological,
-2016,,,,Physics,
+2016,,,,Physical,
 2016,,,,Sexual,
 2017,,,,,
 2017,Urban,,,,
@@ -125,7 +125,7 @@
 2017,,,Secondary school,,
 2017,,,Gymnasium,,
 2017,,,,Psychological,
-2017,,,,Physics,
+2017,,,,Physical,
 2017,,,,Sexual,
 2018,,,,,
 2018,Urban,,,,
@@ -141,5 +141,5 @@
 2018,,,Secondary school,,
 2018,,,Gymnasium,,
 2018,,,,Psychological,
-2018,,,,Physics,
+2018,,,,Physical,
 2018,,,,Sexual,
