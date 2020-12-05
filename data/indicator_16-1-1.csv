@@ -53,11 +53,11 @@ Year,Sex,Age groups of the victim,Means of committing,Context/reason,Value
 2013,,,"White weapons (knife, sharp objects)",,
 2013,,,"Tools (row, axe, hammer etc.)",,
 2013,,,Other means,,
-2013,,,,Revenge (code = 14),
-2013,,,,Jealousy (code = 15),
-2013,,,,Quarrel (code = 16),
-2013,,,,Reason related to family relationships (code = 17),
-2013,,,,To order (code = 30),
+2013,,,,Revenge,
+2013,,,,Jealousy,
+2013,,,,Quarrel,
+2013,,,,Reason related to family relationships,
+2013,,,,To order,
 2013,,,,Other reasons,
 2014,,,,,6.1
 2014,Men,,,,10.5
