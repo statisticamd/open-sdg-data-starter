@@ -7,9 +7,9 @@ Year,Sex,Age group,High-risk population categories,Value
 2010,,35-44,,72.3
 2010,,45-54,,32.5
 2010,,55+,,5.2
-2010,,,Udi,
-2010,,,Lsc,
-2010,,,Bsb,
+2010,,,Injecting drug users,
+2010,,,Commercial sex worker,
+2010,,,Men who have sex with men,
 2011,,,,30.8
 2011,Men,,,39.5
 2011,Women,,,22.7
@@ -18,9 +18,9 @@ Year,Sex,Age group,High-risk population categories,Value
 2011,,35-44,,66.5
 2011,,45-54,,30.5
 2011,,55+,,4.9
-2011,,,Udi,
-2011,,,Lsc,
-2011,,,Bsb,
+2011,,,Injecting drug users,
+2011,,,Commercial sex worker,
+2011,,,Men who have sex with men,
 2012,,,,28.6
 2012,Men,,,36.8
 2012,Women,,,21.1
@@ -29,9 +29,9 @@ Year,Sex,Age group,High-risk population categories,Value
 2012,,35-44,,60.1
 2012,,45-54,,28.1
 2012,,55+,,4.7
-2012,,,Udi,
-2012,,,Lsc,
-2012,,,Bsb,
+2012,,,Injecting drug users,
+2012,,,Commercial sex worker,
+2012,,,Men who have sex with men,
 2013,,,,26.6
 2013,Men,,,34.2
 2013,Women,,,19.6
@@ -40,9 +40,9 @@ Year,Sex,Age group,High-risk population categories,Value
 2013,,35-44,,52.8
 2013,,45-54,,25.9
 2013,,55+,,4.4
-2013,,,Udi,
-2013,,,Lsc,
-2013,,,Bsb,
+2013,,,Injecting drug users,
+2013,,,Commercial sex worker,
+2013,,,Men who have sex with men,
 2014,,,,24.5
 2014,Men,,,31.5
 2014,Women,,,18.0
@@ -51,9 +51,9 @@ Year,Sex,Age group,High-risk population categories,Value
 2014,,35-44,,45.6
 2014,,45-54,,23.5
 2014,,55+,,4.1
-2014,,,Udi,1295.5
-2014,,,Lsc,505.7
-2014,,,Bsb,1156.6
+2014,,,Injecting drug users,1295.5
+2014,,,Commercial sex worker,505.7
+2014,,,Men who have sex with men,1156.6
 2015,,,,22.8
 2015,Men,,,29.4
 2015,Women,,,16.8
@@ -62,9 +62,9 @@ Year,Sex,Age group,High-risk population categories,Value
 2015,,35-44,,42.7
 2015,,45-54,,21.7
 2015,,55+,,3.7
-2015,,,Udi,1060.8
-2015,,,Lsc,508.8
-2015,,,Bsb,1081.7
+2015,,,Injecting drug users,1060.8
+2015,,,Commercial sex worker,508.8
+2015,,,Men who have sex with men,1081.7
 2016,,,,21.7
 2016,Men,,,27.9
 2016,Women,,,15.9
@@ -73,9 +73,9 @@ Year,Sex,Age group,High-risk population categories,Value
 2016,,35-44,,40.7
 2016,,45-54,,20.4
 2016,,55+,,3.7
-2016,,,Udi,895.3
-2016,,,Lsc,511.7
-2016,,,Bsb,1022.7
+2016,,,Injecting drug users,895.3
+2016,,,Commercial sex worker,511.7
+2016,,,Men who have sex with men,1022.7
 2017,,,,21.0
 2017,Men,,,27.2
 2017,Women,,,15.4
@@ -84,9 +84,9 @@ Year,Sex,Age group,High-risk population categories,Value
 2017,,35-44,,40.1
 2017,,45-54,,19.6
 2017,,55+,,3.7
-2017,,,Udi,806.0
-2017,,,Lsc,506.4
-2017,,,Bsb,993.1
+2017,,,Injecting drug users,806.0
+2017,,,Commercial sex worker,506.4
+2017,,,Men who have sex with men,993.1
 2018,,,,21.1
 2018,Men,,,27.3
 2018,Women,,,15.4
@@ -95,6 +95,6 @@ Year,Sex,Age group,High-risk population categories,Value
 2018,,35-44,,40.8
 2018,,45-54,,19.2
 2018,,55+,,3.6
-2018,,,Udi,770.7
-2018,,,Lsc,483.2
-2018,,,Bsb,970.4
+2018,,,Injecting drug users,770.7
+2018,,,Commercial sex worker,483.2
+2018,,,Men who have sex with men,970.4
