@@ -105,7 +105,7 @@ prose:
       - name: "comparison_global"
         field:
             element: text
-            label: "Comparability with global metadata"
+            label: "Comparability with global indicator"
             scope: national      
       - name: "comments_limitations"
         field:
