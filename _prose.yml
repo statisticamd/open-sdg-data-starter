@@ -144,8 +144,8 @@ prose:
                 value: 'inprogress'
               - name: 'notstarted'
                 value: 'notstarted'
-              - name: 'notincluded'
-                value: 'notincluded'
+              - name: 'test'
+                value: 'tes'
             scope: data
       - name: data_non_statistical
         field:
