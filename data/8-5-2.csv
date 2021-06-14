@@ -8,7 +8,7 @@ Year,Sex,Age group,Persons with disabilities,Value
 2010,,45-54,,
 2010,,55-64,,
 2010,,65+,,
-2010,,,Persons with disabilities,
+2010,,,Total,
 2011,,,,
 2011,Men,,,
 2011,Women,,,
@@ -18,7 +18,7 @@ Year,Sex,Age group,Persons with disabilities,Value
 2011,,45-54,,
 2011,,55-64,,
 2011,,65+,,
-2011,,,Persons with disabilities,
+2011,,,Total,
 2012,,,,
 2012,Men,,,
 2012,Women,,,
@@ -28,7 +28,7 @@ Year,Sex,Age group,Persons with disabilities,Value
 2012,,45-54,,
 2012,,55-64,,
 2012,,65+,,
-2012,,,Persons with disabilities,
+2012,,,Total,
 2013,,,,
 2013,Men,,,
 2013,Women,,,
@@ -38,7 +38,7 @@ Year,Sex,Age group,Persons with disabilities,Value
 2013,,45-54,,
 2013,,55-64,,
 2013,,65+,,
-2013,,,Persons with disabilities,
+2013,,,Total,
 2014,,,,3.7
 2014,Men,,,4.5
 2014,Women,,,2.9
@@ -48,7 +48,7 @@ Year,Sex,Age group,Persons with disabilities,Value
 2014,,45-54,,2.5
 2014,,55-64,,1.6
 2014,,65+,,0.0
-2014,,,Persons with disabilities,
+2014,,,Total,
 2015,,,,4.7
 2015,Men,,,5.9
 2015,Women,,,3.4
@@ -58,7 +58,7 @@ Year,Sex,Age group,Persons with disabilities,Value
 2015,,45-54,,2.7
 2015,,55-64,,2.3
 2015,,65+,,0.5
-2015,,,Persons with disabilities,
+2015,,,Total,
 2016,,,,4.0
 2016,Men,,,5.2
 2016,Women,,,2.7
@@ -68,7 +68,7 @@ Year,Sex,Age group,Persons with disabilities,Value
 2016,,45-54,,3.2
 2016,,55-64,,1.9
 2016,,65+,,0.1
-2016,,,Persons with disabilities,
+2016,,,Total,
 2017,,,,3.9
 2017,Men,,,4.5
 2017,Women,,,3.2
@@ -78,7 +78,7 @@ Year,Sex,Age group,Persons with disabilities,Value
 2017,,45-54,,2.6
 2017,,55-64,,2.0
 2017,,65+,,0.2
-2017,,,Persons with disabilities,2.7
+2017,,,Total,2.7
 2018,,,,2.9
 2018,Men,,,3.4
 2018,Women,,,2.4
@@ -88,4 +88,24 @@ Year,Sex,Age group,Persons with disabilities,Value
 2018,,45-54,,2.5
 2018,,55-64,,1.8
 2018,,65+,,0.3
-2018,,,Persons with disabilities,1.8
+2018,,,Total,1.8
+2019,,,,5.1
+2019,Men,,,5.8
+2019,Women,,,4.4
+2019,,15-24,,10.4
+2019,,25-34,,5.8
+2019,,35-44,,5.3
+2019,,45-54,,4.1
+2019,,55-64,,3.9
+2019,,65+,,0.1
+2019,,,Total,3.8
+2020,,,,3.8
+2020,Men,,,4.3
+2020,Women,,,3.2
+2020,,15-24,,10.9
+2020,,25-34,,3.7
+2020,,35-44,,3.8
+2020,,45-54,,3.4
+2020,,55-64,,2.9
+2020,,65+,,0.4
+2020,,,Total,2.4
